@@ -1,0 +1,12 @@
+.container a {
+  color: #2165B6;
+}
+.container a:hover {
+  color: #E8830C;
+}
+.panel-default h4 a, h5 a {
+  color: #2165B6;
+}
+.panel-default h4 a:hover, h5 a:hover {
+  color: #E8830C;
+}
