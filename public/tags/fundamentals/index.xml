@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fundamentals on Locke Data</title>
+    <link>http://lockedata.uk/tags/fundamentals/index.xml</link>
+    <description>Recent content in Fundamentals on Locke Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <atom:link href="http://lockedata.uk/tags/fundamentals/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Intro to R</title>
+      <link>http://lockedata.uk/intro-to-r/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/intro-to-r/</guid>
+      <description>
+
+&lt;p&gt;Learn the fundamentals of R.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;R, the statistical programming language, is another open-source program making inroads into the Microsoft world.&lt;/p&gt;
+
+&lt;p&gt;R was originally for doing stats, but it now does database CRUD, reporting, documentation, and even websites.  It can be awkward to know where to start, so this session fast tracks you to the sections you need to know about to save yourself pains you didn&amp;rsquo;t even know you had.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/Rintro.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/Rintro.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+&lt;video width=&#34;640&#34; height=&#34;363&#34; controls=&#34;controls&#34; poster=&#34;https://sqlbits.com/information/Agenda/VideoImage.ashx?SessionId=4209&amp;amp;Regenerate=0&#34;&gt;
+        &lt;source src=&#34;http://files.sqlbits.com/event12/Intro_to_R/Intro_to_R.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;/video&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;July 2014 - &lt;a href=&#34;https://sqlbits.com/Content/Event12&#34;&gt;SQLBits XII&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Logistic Regressions in R</title>
+      <link>http://lockedata.uk/logistic-regressions-in-r/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/logistic-regressions-in-r/</guid>
+      <description>
+
+&lt;p&gt;Learn what logistic regressions are. See how we can use R to prepare data, build models, and evaluate them.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Learn about a fundamental type of model used to make classification prredictions and probabilities of an outcome&amp;rsquo;s likelihood.&lt;/p&gt;
+
+&lt;p&gt;Logistic regressions are a core model in machine learning, inherited from statistics, and it&amp;rsquo;s vital to understand them if you&amp;rsquo;re interested in data science.&lt;/p&gt;
+
+&lt;p&gt;The neat thing is they&amp;rsquo;re pretty simple!&lt;/p&gt;
+
+&lt;p&gt;Learn about how they works and how you go about programming a logistic regression from end to end in R.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/logisticregressions.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/logisticregressions.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;You can also check out a more extended workshop on &lt;a href=&#34;http://lockedata.uk/LogisticRegressionWorkshop/&#34;&gt;Logistic Regressions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/k2Of6NKnMsI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;April 19th 2017, Plymouth University Psychology faculty&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowing your Rs from your elbow</title>
+      <link>http://lockedata.uk/knowing-your-Rs-from-your-elbow/</link>
+      <pubDate>Sun, 04 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/knowing-your-Rs-from-your-elbow/</guid>
+      <description>
+
+&lt;p&gt;Learn the fundamentals of R.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;R, a fantastic open-source language, will rock your world.&lt;/p&gt;
+
+&lt;p&gt;Instead of showing you how to do dry old statistics and worrying about your random trees and bagging methods, this session is going to take you through the super-cool stuff. No TLAs allowed in this session, only cool terms like shiny &amp;amp; LaTeX!&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re gonna get your data out of SQL Server in just a few lines, then we&amp;rsquo;re going to chart it for awesomeness, and then the fun begins.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll go through the easy experience of using shiny to make interactive, real-time reports.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll show you how you can add markdown &amp;amp; LaTeX to the mix to replace Excel, PowerPoint &amp;amp; Word so that you can save yourself months over your lifetime formatting bullet points and headers.&lt;/p&gt;
+
+&lt;p&gt;By the end of this session, you&amp;rsquo;ll truly know your Rs from your elbow.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/KnowingYourRsFromYourElbow.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/KnowingYourRsFromYourElbow.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/132092881&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;October 14th, 2015 &lt;a href=&#34;https://app.attendee.events/SQLRelay2015Cardiff/E/Agenda/AgendaSession/267&#34;&gt;SQL Relay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;September 8th, 2015 &lt;a href=&#34;http://sqlne.pass.org/?EventID=3788&#34;&gt;SQLNE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
