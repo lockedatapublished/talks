@@ -5,13 +5,20 @@ title = "Locke Data"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-theme = "basiclocke"
+theme = "hugo_theme_robust"
 
+[outputs]
+page = [ "HTML", "AMP" ]
 
 [params]
-  avatar = "profile.png"
+  avatar = "img/PadLocke.svg"
   author = "Locke Data"
   description = "Locke Data is a consultancy that helps people and organisations get started with data science. We offer training, advice, and technical leadership to make sure things go more smoothly. Find out more about us on our core site [itsalocke.com](https://itsalocke.com)."
+  dateformat = "Jan 2, 2006" # Optional
+  # Fonts settings.
+  googlefonts = "https://fonts.googleapis.com/css?family=Roboto:400,700" # Optional, Include google fonts.
+  fontfamily = "Roboto,sans-serif" # Optional, Override body font family.
+  logofontfamily = "Roboto,sans-serif" # Optional, Override logo font.
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []

@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Locke Data</title>
-    <link>http://lockedata.uk/index.xml</link>
-    <description>Recent content on Locke Data</description>
+    <title>Presentation on Locke Data</title>
+    <link>http://lockedata.uk/categories/presentation/index.xml</link>
+    <description>Recent content in Presentation on Locke Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 20 Mar 2017 18:25:22 +0530</lastBuildDate>
-    <atom:link href="http://lockedata.uk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lockedata.uk/categories/presentation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>arapaima.uk</title>
