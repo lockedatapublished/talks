@@ -97,8 +97,19 @@
   </url>
   
   <url>
+    <loc>http://lockedata.uk/agile-bi/</loc>
+    <lastmod>2015-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lockedata.uk/intro-to-r/</loc>
     <lastmod>2014-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lockedata.uk/tags/business-intelligence/</loc>
+    <lastmod>2015-05-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -169,6 +180,12 @@
   <url>
     <loc>http://lockedata.uk/tags/logistic-regression/</loc>
     <lastmod>2017-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lockedata.uk/tags/processes/</loc>
+    <lastmod>2015-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
