@@ -40,6 +40,39 @@ This talk takes you through my path to a cool analytics platform, showing you wh
     </item>
     
     <item>
+      <title>Anchor Modelling - agile databases</title>
+      <link>http://lockedata.uk/anchor-models/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/anchor-models/</guid>
+      <description>
+
+&lt;p&gt;Yes, there&amp;rsquo;s normal forms beyond third, and yes they can be really useful!&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Anchor Modelling is a fantastic database modelling paradigm that uses sixth normal form (6NF) to store data and provides third normal form (3NF) views for ease of use.&lt;/p&gt;
+
+&lt;p&gt;This session deep dives into all the concepts behind Anchor Modelling (and indeed databases generally!) and then takes you through how Anchor Modelling uses these concepts to move away from the traditional data warehouse paradigm to deliver a purely additive, agile database.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;https://sway.com/Nh8UJdEUTonyDQFF?ref=Link&#34;&gt;full screen&lt;/a&gt; or view it below.&lt;/p&gt;
+
+&lt;iframe width=&#34;760px&#34; height=&#34;500px&#34; src=&#34;https://sway.com/s/Nh8UJdEUTonyDQFF/embed&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border: none; max-width:100%; max-height:100vh&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Read more in our &lt;a href=&#34;https://itsalocke.com/anchor-modelling-sixth-normal-form-databases/&#34;&gt;post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;December 5th, 2017 - &lt;a href=&#34;http://www.sqlsaturday.com/467/eventhome.aspx&#34;&gt;SQL Saturday #467 Southampton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;May 20th, 2017 - &lt;a href=&#34;http://www.sqlsaturday.com/616/eventhome.aspx&#34;&gt;SQL Saturday #616 Kyiv&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Logistic Regressions in R</title>
       <link>http://lockedata.uk/logistic-regressions-in-r/</link>
       <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
@@ -312,6 +345,7 @@ Starting with provisioning a SQL Server on Azure, this end to end demo shows you
 
 &lt;ul&gt;
 &lt;li&gt;October 24th, 2016 - &lt;a href=&#34;http://budapest.satrdays.org&#34;&gt;UK TechDays Online at Future Decoded&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;October 24th, 2016 - &lt;a href=&#34;http://www.meetup.com/SQL-Bristol/events/234358181/&#34;&gt;SQL Bristol&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -473,34 +507,6 @@ This full hour takes you through a framework for a single core source document, 
 &lt;ul&gt;
 &lt;li&gt;May 6th, 2016 - &lt;a href=&#34;http://sqlbits.com/%28S%28fueva455qrdns245thsoiovo%29%29/Sessions/Event15/Cut_the_R_learning_curve&#34;&gt;SQLBits XV&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;May 21st, 2016 - &lt;a href=&#34;http://tugait.pt/2016/sessions/cut-the-r-learning-curve/&#34;&gt;TUGA IT&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My ways of being lazy with infrastructure</title>
-      <link>http://lockedata.uk/being-lazy-with-infrastructure/</link>
-      <pubDate>Tue, 17 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://lockedata.uk/being-lazy-with-infrastructure/</guid>
-      <description>
-
-&lt;p&gt;Learn how we can take some of the effort out of infrastructure work&lt;/p&gt;
-
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Oops, I never made one apparently!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-
-&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/lazyinfrastructure.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
-
-&lt;iframe src=&#34;http://stephlocke.info/Rtraining/lazyinfrastructure.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;May 17th, 2016 - &lt;a href=&#34;http://budapest.satrdays.org&#34;&gt;IT Pro Portugal&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

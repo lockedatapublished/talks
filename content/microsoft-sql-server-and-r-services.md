@@ -25,3 +25,4 @@ Get more info in the [repository](https://github.com/stephlocke/SQLServerVM-tidy
 
 ## Presentation history
 - October 24th, 2016 - [UK TechDays Online at Future Decoded](http://budapest.satrdays.org)
+- October 24th, 2016 - [SQL Bristol](http://www.meetup.com/SQL-Bristol/events/234358181/)
