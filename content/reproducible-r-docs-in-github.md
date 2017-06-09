@@ -1,13 +1,24 @@
 +++
-showonlyimage = false
 draft = false
-thumbnail = "/img/Play.png"
-date = "2017-03-20T18:25:22+05:30"
-title = "arapaima.uk"
-subtitle="Data, databases, delivery"
-weight = 1
-tags = []
-categories = ["presentation"]
+thumbnail = "/img/Transform.png"
+date = "2017-02-13"
+title = "Reproducible R docs in github"
+tags = ["R","rmarkdown"]
+categories = ["DataOps"]
 +++
 
-I'm Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.
+Learn how to build awesome docs in R and github.
+
+## Abstract
+We can combine R and Github to make fantastic data driven documents, blogs, books and more. This talk takes you through the building blocks and how you can use them for different types of documents.
+
+## Slides
+View the presentation [full screen](http://stephlocke.info/Rtraining/reproducibledocs.html#/) or view it below. Hit the Space bar to navigate through the slides.
+
+<iframe src="http://stephlocke.info/Rtraining/reproducibledocs.html#/" width="960" height="540"></iframe>
+
+
+<!--## Videos-->
+
+## Presentation history
+- February 13th, 2017 - [R-Ladies London](https://www.meetup.com/rladies-london/events/237327713/)

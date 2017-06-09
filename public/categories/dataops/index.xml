@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataops on Locke Data Talks</title>
+    <link>http://lockedata.uk/categories/dataops/index.xml</link>
+    <description>Recent content in Dataops on Locke Data Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <atom:link href="http://lockedata.uk/categories/dataops/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reproducible R docs in github</title>
+      <link>http://lockedata.uk/reproducible-r-docs-in-github/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/reproducible-r-docs-in-github/</guid>
+      <description>
+
+&lt;p&gt;Learn how to build awesome docs in R and github.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;We can combine R and Github to make fantastic data driven documents, blogs, books and more. This talk takes you through the building blocks and how you can use them for different types of documents.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/reproducibledocs.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/reproducibledocs.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!--## Videos--&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;February 13th, 2017 - &lt;a href=&#34;https://www.meetup.com/rladies-london/events/237327713/&#34;&gt;R-Ladies London&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data &#43; Docker = Discombobulating?</title>
+      <link>http://lockedata.uk/data-docker-discombobulating/</link>
+      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/data-docker-discombobulating/</guid>
+      <description>
+
+&lt;p&gt;Learn about Docker and how you can store data in Docker containers safely.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;If you’re like me, you like your data to stick around for a long time and most importantly you want to know it’s &lt;em&gt;safe&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the Docker world, there’s the maxim of “never patch”, always make a new container with the latest version of the application. If we’re sticking in our database in a container like Microsoft are doing with SQL Server now, what happens when we need to apply the latest patches? Will we lose our data?&lt;/p&gt;
+
+&lt;p&gt;In this talk, we’ll look at the sorts of data we need to think about (it’s not just databases!) and how Docker containers work. We’ll then look at how we can save our data from disappearing when we load a new version of our Docker container. Once we know how to safeguard ourselves, we’ll look at some of the architectural options you have when working with data and Docker.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/datadockerdisconbobulating.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/datadockerdisconbobulating.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Get more info and supporting scripts in the &lt;a href=&#34;https://github.com/stephlocke/datadockerdisconbobulating&#34;&gt;repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/204426728&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;November 3rd, 2016 - &lt;a href=&#34;http://2016.bris.tech/&#34;&gt;Bris.tech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;January 18th, 2017 - &lt;a href=&#34;http://ndc-london.com/&#34;&gt;NDC London&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Get going with modern R in SQL Server in 30 minutes</title>
+      <link>http://lockedata.uk/microsoft-sql-server-and-r-services/</link>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/microsoft-sql-server-and-r-services/</guid>
+      <description>
+
+&lt;p&gt;Learn about provisioning data science machines for production, programmatically.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Description
+Starting with provisioning a SQL Server on Azure, this end to end demo shows you how get everything set up to start using the best R packages available in realtime.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/RonSQLServer.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/RonSQLServer.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Get more info in the &lt;a href=&#34;https://github.com/stephlocke/SQLServerVM-tidyverse&#34;&gt;repository&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+&lt;iframe src=&#34;https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online--Future-Decoded/Get-going-with-modern-R-in-SQL-Server-in-30-minutes/player&#34; width=&#34;960&#34; height=&#34;540&#34; allowFullScreen frameBorder=&#34;0&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;October 24th, 2016 - &lt;a href=&#34;http://budapest.satrdays.org&#34;&gt;UK TechDays Online at Future Decoded&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Board Packs: Combining Shiny, LaTeX And Databases For Full Effect</title>
+      <link>http://lockedata.uk/board-packs/</link>
+      <pubDate>Sat, 03 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/board-packs/</guid>
+      <description>
+
+&lt;p&gt;Making complex report compilation easy is something we can do in R. Learn how!&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;The monthly report pack for the Board &amp;ndash; with lots of information from different sources and all requiring commentary from lots of people &amp;ndash; these things can take weeks to produce, send for commentary, and then compile into one pack.
+This full hour takes you through a framework for a single core source document, a shiny interface, hooks into the database for commentary, and the LaTeX (or markdown) document structure needed for developing a single interface through which lots of people can contribute to a single document.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/boardpack.html#/get-the-code&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/boardpack.html#/get-the-code&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;June 30th, 2015 - &lt;a href=&#34;https://www.meetup.com/Cardiff-R-User-Group/events/221126308/&#34;&gt;caRdiff&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;September 15th, 2015 - &lt;a href=&#34;https://earlconf.com/2015/london/Agenda.html&#34;&gt;EARL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Infrastructure for R peeps</title>
+      <link>http://lockedata.uk/infrastructure-for-rpeeps/</link>
+      <pubDate>Sat, 03 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/infrastructure-for-rpeeps/</guid>
+      <description>
+
+&lt;p&gt;It&amp;rsquo;s important to know how to work your operating systems &amp;ndash; if only so you know how to avoid working with your operating systems!&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Continuous integration, Docker, openCPU, shiny server, RStudio server, Microsoft R Server, R in Hadoop, your laptop, your grid computer &amp;hellip; There&amp;rsquo;s a lot of infrastructure out there and someone has to configure it. This session whistle-stops through networking, Linux basics, and other key concepts to help get you up to speed because one day, the person configuring the server could be you.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/infrastructureforRpeeps.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/infrastructureforRpeeps.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/yTjxkrMmWdA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;September 3rd, 2016 - &lt;a href=&#34;http://budapest.satrdays.org&#34;&gt;SatRdays Budapest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git in 5 minutes</title>
+      <link>http://lockedata.uk/git-in-5/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/git-in-5/</guid>
+      <description>
+
+&lt;p&gt;Learn about source control &amp;ndash; it&amp;rsquo;ll save your bacon!&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Git can seem scary but once you know a few key terms it&amp;rsquo;s pretty easy day to day. This lightning talk helps fasttrack you through the basics.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/gitin5.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/gitin5.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;July 27th, 2016 - &lt;a href=&#34;https://www.sqlrelay.co.uk/event/guerrilla-talks-lightning-talks-2/&#34;&gt;SQL Guerilla talks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My ways of being lazy with infrastructure</title>
+      <link>http://lockedata.uk/being-lazy-with-infrastructure/</link>
+      <pubDate>Tue, 17 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/being-lazy-with-infrastructure/</guid>
+      <description>
+
+&lt;p&gt;Learn how we can take some of the effort out of infrastructure work&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Oops, I never made one apparently!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/lazyinfrastructure.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/lazyinfrastructure.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;May 17th, 2016 - &lt;a href=&#34;http://budapest.satrdays.org&#34;&gt;IT Pro Portugal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analytical web services</title>
+      <link>http://lockedata.uk/analytical-web-services/</link>
+      <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/analytical-web-services/</guid>
+      <description>
+
+&lt;p&gt;&amp;ldquo;Works on my machine&amp;rdquo; isn&amp;rsquo;t useful - learn how we can get our models into production.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;In your day job you build some awesome bit of analysis in R but now people want this information available real time and against every thing that comes into the business - you need an R web service but not being a developer you have no clue how to go about it.&lt;/p&gt;
+
+&lt;p&gt;This session takes you through how to convert your analysis into a web service and how to take into account important stuff like security, scalability and error handling. We discuss the technologies and the defensive programming you should be using to help get you through.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/webservices.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/webservices.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/GFt0P4UtIPI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;October 12th, 2015 - &lt;a href=&#34;https://app.attendee.events/SQLRelay2015London/E/Agenda/AgendaSession/337&#34;&gt;SQL Relay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;October 21st, 2015 - &lt;a href=&#34;https://www.meetup.com/RBelgium/events/225464911/&#34;&gt;RBelgium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;March 10th, 2016 - &lt;a href=&#34;https://www.eventbrite.com/e/lidnug-steph-locke-implementing-analytics-in-your-applications-tickets-21681931240&#34;&gt;LIDNUG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R for Developers</title>
+      <link>http://lockedata.uk/r-for-developers/</link>
+      <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/r-for-developers/</guid>
+      <description>
+
+&lt;p&gt;Learn about R from a developer perspective.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Whether you&amp;rsquo;re interested in picking up another language, or you need to understand what those new data scientists have written and how you go about implementing their crazy new algorithms in your front-end, this session will take you through the R fundamentals, drawing comparisons against other languages, and give you a load of tips to make getting started easier.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/r101.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/r101.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!--## Videos--&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;September 24th, 2015 - &lt;a href=&#34;http://appdev.pass.org/?EventID=3838&#34;&gt;Application Development PASS Virtual Chapter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

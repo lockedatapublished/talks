@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Logistic Regression on Locke Data</title>
+    <title>Logistic Regression on Locke Data Talks</title>
     <link>http://lockedata.uk/tags/logistic-regression/index.xml</link>
-    <description>Recent content in Logistic Regression on Locke Data</description>
+    <description>Recent content in Logistic Regression on Locke Data Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <atom:link href="http://lockedata.uk/tags/logistic-regression/index.xml" rel="self" type="application/rss+xml" />

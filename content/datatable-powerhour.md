@@ -1,13 +1,33 @@
 +++
-showonlyimage = false
 draft = false
-thumbnail = "/img/Play.png"
-date = "2017-03-20T18:25:22+05:30"
-title = "arapaima.uk"
-subtitle="Data, databases, delivery"
-weight = 1
-tags = []
-categories = ["presentation"]
+thumbnail = "/img/Work.png"
+date = "2017-04-07"
+title = "data.table power hour"
+tags = ["R","fundamentals","datatable"]
+categories = ["programming"]
 +++
 
-I'm Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.
+Learn how to use this fantastic package in R for high-speed, low-code table wrangling.
+
+## Abstract
+The package data.table is super-fast and super-powerful and can turn your long-winded and slow R code into a lean, mean, data-crunching machine. This hour takes you through the key aspects of the package and how it can make your life better.
+
+We'll be looking at:
+
+- Basic syntax
+- Data I/O
+- Joins
+- Within group activities
+- Pivoting data
+- Cool hacks
+
+## Slides
+View the presentation [full screen](stephlocke.info/Rtraining/datatablepowerhour.html) or view it below. Hit the Space bar to navigate through the slides.
+
+<iframe src="stephlocke.info/Rtraining/datatablepowerhour.html" width="960" height="540"></iframe>
+
+
+<!-- ## Videos -->
+
+## Presentation history
+- April 7th, 2017 - [SQLBits XVI](http://sqlbits.com/Sessions/Event16/data_table_power_hour)

@@ -2,6 +2,16 @@
 
   <div class="sections sidebar">
     <section class="sidebar">
+	 {{ range $key, $value := .Site.Taxonomies }}
+    <section class="sidebar">
+      <header>{{ $key | upper }}</header>
+      <div>
+        <ul class="terms">
+          {{ range first 10 $value.ByCount }}<li><a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}">{{ .Name }}</a></li>{{ end }}
+        </ul>
+      </div>
+    </section>
+    {{ end }}
       <header>LATEST</header>
       <div>
         <div class="articles sm">
@@ -12,16 +22,7 @@
       </div>
     </section>
 
-    {{ range $key, $value := .Site.Taxonomies }}
-    <section class="sidebar">
-      <header>{{ $key | upper }}</header>
-      <div>
-        <ul class="terms">
-          {{ range first 10 $value.ByCount }}<li><a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}">{{ .Name }}</a></li>{{ end }}
-        </ul>
-      </div>
-    </section>
-    {{ end }}
+   
   </div>
 
 </aside>

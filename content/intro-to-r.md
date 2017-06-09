@@ -1,7 +1,7 @@
 +++
 draft = false
 thumbnail = "/img/Work.png"
-date = "2017-07-04"
+date = "2014-07-04"
 title = "Intro to R"
 tags = ["R","fundamentals"]
 categories = ["programming"]

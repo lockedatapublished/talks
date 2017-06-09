@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on Locke Data Talks</title>
+    <link>http://lockedata.uk/categories/data/index.xml</link>
+    <description>Recent content in Data on Locke Data Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <atom:link href="http://lockedata.uk/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Getting better with data</title>
+      <link>http://lockedata.uk/getting-better-with-data/</link>
+      <pubDate>Wed, 08 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/getting-better-with-data/</guid>
+      <description>
+
+&lt;p&gt;Aimed at security folks, this talk is about how people involved with protecting our data can use some of it to improve protection.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;So many alerts and dashboards, so little time. It&amp;rsquo;s incredibly tough to know what to focus on when monitoring your network. This talk takes you through some ways of using the data available to you to reduce unimportant alerts, and liberating your time.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/betterwithdata.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/betterwithdata.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/isEL3LuZsB8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;June 8th, 2016 - &lt;a href=&#34;https://securitybsideslondon2016.sched.com/&#34;&gt;London BSides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skilling up to code with data</title>
+      <link>http://lockedata.uk/skilling-up-to-code-with-data/</link>
+      <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/skilling-up-to-code-with-data/</guid>
+      <description>
+
+&lt;p&gt;Coding helps you scale as an analyst - learn some important concepts to help you get started.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;It’s starting to feel like every data project is a software project. It’s becoming essential to have some coding skills to really analyse your data.  This session will cover how you can get to grips with programming.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why code with data&lt;/li&gt;
+&lt;li&gt;What coding languages can be used&lt;/li&gt;
+&lt;li&gt;Coding best practices&lt;/li&gt;
+&lt;li&gt;Source control&lt;/li&gt;
+&lt;li&gt;Testing&lt;/li&gt;
+&lt;li&gt;Continuous testing (&amp;amp; deployment)&lt;/li&gt;
+&lt;li&gt;Coding your infrastructure&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/skillinguptocodewithdata.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/skillinguptocodewithdata.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!--## Videos--&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;April 13th, 2016 - &lt;a href=&#34;http://www.meetup.com/London-Business-Analytics-Group/events/229122315/&#34;&gt;London Business Analytics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

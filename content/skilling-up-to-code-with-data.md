@@ -1,13 +1,32 @@
 +++
-showonlyimage = false
 draft = false
-thumbnail = "/img/Play.png"
-date = "2017-03-20T18:25:22+05:30"
-title = "arapaima.uk"
-subtitle="Data, databases, delivery"
-weight = 1
-tags = []
-categories = ["presentation"]
+thumbnail = "/img/Scale.png"
+date = "2016-04-13"
+title = "Skilling up to code with data"
+tags = ["R","fundamentals"]
+categories = ["Data"]
 +++
 
-I'm Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.
+Coding helps you scale as an analyst - learn some important concepts to help you get started.
+
+## Abstract
+It’s starting to feel like every data project is a software project. It’s becoming essential to have some coding skills to really analyse your data.  This session will cover how you can get to grips with programming.
+
+- Why code with data
+- What coding languages can be used
+- Coding best practices
+- Source control
+- Testing
+- Continuous testing (& deployment)
+- Coding your infrastructure
+
+## Slides
+View the presentation [full screen](http://stephlocke.info/Rtraining/skillinguptocodewithdata.html#/) or view it below. Hit the Space bar to navigate through the slides.
+
+<iframe src="http://stephlocke.info/Rtraining/skillinguptocodewithdata.html#/" width="960" height="540"></iframe>
+
+
+<!--## Videos-->
+
+## Presentation history
+- April 13th, 2016 - [London Business Analytics](http://www.meetup.com/London-Business-Analytics-Group/events/229122315/)

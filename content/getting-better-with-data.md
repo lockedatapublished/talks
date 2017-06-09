@@ -1,13 +1,25 @@
 +++
-showonlyimage = false
 draft = false
-thumbnail = "/img/Play.png"
-date = "2017-03-20T18:25:22+05:30"
-title = "arapaima.uk"
-subtitle="Data, databases, delivery"
-weight = 1
-tags = []
-categories = ["presentation"]
+thumbnail = "/img/DataSecurity.png"
+date = "2016-06-08"
+title = "Getting better with data"
+tags = ["security","fundamentals"]
+categories = ["Data"]
 +++
 
-I'm Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.
+Aimed at security folks, this talk is about how people involved with protecting our data can use some of it to improve protection.
+
+## Abstract
+So many alerts and dashboards, so little time. It's incredibly tough to know what to focus on when monitoring your network. This talk takes you through some ways of using the data available to you to reduce unimportant alerts, and liberating your time.
+
+## Slides
+View the presentation [full screen](http://stephlocke.info/Rtraining/betterwithdata.html) or view it below. Hit the Space bar to navigate through the slides.
+
+<iframe src="http://stephlocke.info/Rtraining/betterwithdata.html" width="960" height="540"></iframe>
+
+
+## Videos
+{{< youtube isEL3LuZsB8 >}}
+
+## Presentation history
+- June 8th, 2016 - [London BSides](https://securitybsideslondon2016.sched.com/)

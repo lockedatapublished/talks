@@ -1,161 +1,517 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Locke Data</title>
+    <title>Locke Data Talks</title>
     <link>http://lockedata.uk/index.xml</link>
-    <description>Recent content on Locke Data</description>
+    <description>Recent content on Locke Data Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 20 Mar 2017 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://lockedata.uk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>arapaima.uk</title>
-      <link>http://lockedata.uk/analytical-web-services/</link>
-      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
+      <title>Logistic Regressions in R</title>
+      <link>http://lockedata.uk/logistic-regressions-in-r/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lockedata.uk/analytical-web-services/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
+      <guid>http://lockedata.uk/logistic-regressions-in-r/</guid>
+      <description>
+
+&lt;p&gt;Learn what logistic regressions are. See how we can use R to prepare data, build models, and evaluate them.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Learn about a fundamental type of model used to make classification prredictions and probabilities of an outcome&amp;rsquo;s likelihood.&lt;/p&gt;
+
+&lt;p&gt;Logistic regressions are a core model in machine learning, inherited from statistics, and it&amp;rsquo;s vital to understand them if you&amp;rsquo;re interested in data science.&lt;/p&gt;
+
+&lt;p&gt;The neat thing is they&amp;rsquo;re pretty simple!&lt;/p&gt;
+
+&lt;p&gt;Learn about how they works and how you go about programming a logistic regression from end to end in R.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/logisticregressions.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/logisticregressions.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;You can also check out a more extended workshop on &lt;a href=&#34;http://lockedata.uk/LogisticRegressionWorkshop/&#34;&gt;Logistic Regressions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/k2Of6NKnMsI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;April 19th 2017, Plymouth University Psychology faculty&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>arapaima.uk</title>
-      <link>http://lockedata.uk/being-lazy-with-infrastructure/</link>
-      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
-      
-      <guid>http://lockedata.uk/being-lazy-with-infrastructure/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>arapaima.uk</title>
-      <link>http://lockedata.uk/board-packs/</link>
-      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
-      
-      <guid>http://lockedata.uk/board-packs/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>arapaima.uk</title>
-      <link>http://lockedata.uk/cut-the-r-learning-curve/</link>
-      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
-      
-      <guid>http://lockedata.uk/cut-the-r-learning-curve/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>arapaima.uk</title>
-      <link>http://lockedata.uk/data-docker-discombobulating/</link>
-      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
-      
-      <guid>http://lockedata.uk/data-docker-discombobulating/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>arapaima.uk</title>
-      <link>http://lockedata.uk/datatable-in-5/</link>
-      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
-      
-      <guid>http://lockedata.uk/datatable-in-5/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>arapaima.uk</title>
+      <title>data.table power hour</title>
       <link>http://lockedata.uk/datatable-powerhour/</link>
-      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>http://lockedata.uk/datatable-powerhour/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Learn how to use this fantastic package in R for high-speed, low-code table wrangling.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;The package data.table is super-fast and super-powerful and can turn your long-winded and slow R code into a lean, mean, data-crunching machine. This hour takes you through the key aspects of the package and how it can make your life better.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll be looking at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basic syntax&lt;/li&gt;
+&lt;li&gt;Data I/O&lt;/li&gt;
+&lt;li&gt;Joins&lt;/li&gt;
+&lt;li&gt;Within group activities&lt;/li&gt;
+&lt;li&gt;Pivoting data&lt;/li&gt;
+&lt;li&gt;Cool hacks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;stephlocke.info/Rtraining/datatablepowerhour.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;stephlocke.info/Rtraining/datatablepowerhour.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!-- ## Videos --&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;April 7th, 2017 - &lt;a href=&#34;http://sqlbits.com/Sessions/Event16/data_table_power_hour&#34;&gt;SQLBits XVI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>arapaima.uk</title>
-      <link>http://lockedata.uk/getting-better-with-data/</link>
-      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
+      <title>data.table in 5 minutes</title>
+      <link>http://lockedata.uk/datatable-in-5/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lockedata.uk/getting-better-with-data/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
+      <guid>http://lockedata.uk/datatable-in-5/</guid>
+      <description>
+
+&lt;p&gt;Get a quick overview about the R package data.table&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;The package data.table is super-fast and super-powerful and can turn your long-winded and slow R code into a lean, mean, data-crunching machine. This quick talk takes you through the most important features and benefits.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/datatablein5.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/datatablein5.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!--## Videos--&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;March 15th, 2017 - &lt;a href=&#34;http://stephlocke.info/Rtraining/datatablein5.html#/&#34;&gt;Data Science Exeter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>arapaima.uk</title>
-      <link>http://lockedata.uk/git-in-5/</link>
-      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
+      <title>The You in Community</title>
+      <link>http://lockedata.uk/the-you-in-community/</link>
+      <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lockedata.uk/git-in-5/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
+      <guid>http://lockedata.uk/the-you-in-community/</guid>
+      <description>
+
+&lt;p&gt;Keynote about why and how peoeple can get involved in the R community.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/youincommunity.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/youincommunity.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/vqP2uTYOWK4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;February 18th, 2017 - &lt;a href=&#34;http://capetown2017.satrdays.org/&#34;&gt;SatRdays Cape Town&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>arapaima.uk</title>
-      <link>http://lockedata.uk/infrastructure-for-rpeeps/</link>
-      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
-      
-      <guid>http://lockedata.uk/infrastructure-for-rpeeps/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>arapaima.uk</title>
-      <link>http://lockedata.uk/microsoft-sql-server-and-r-services/</link>
-      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
-      
-      <guid>http://lockedata.uk/microsoft-sql-server-and-r-services/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>arapaima.uk</title>
-      <link>http://lockedata.uk/personal-branding/</link>
-      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
-      
-      <guid>http://lockedata.uk/personal-branding/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>arapaima.uk</title>
-      <link>http://lockedata.uk/r-for-developers/</link>
-      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
-      
-      <guid>http://lockedata.uk/r-for-developers/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>arapaima.uk</title>
+      <title>Reproducible R docs in github</title>
       <link>http://lockedata.uk/reproducible-r-docs-in-github/</link>
-      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>http://lockedata.uk/reproducible-r-docs-in-github/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Learn how to build awesome docs in R and github.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;We can combine R and Github to make fantastic data driven documents, blogs, books and more. This talk takes you through the building blocks and how you can use them for different types of documents.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/reproducibledocs.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/reproducibledocs.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!--## Videos--&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;February 13th, 2017 - &lt;a href=&#34;https://www.meetup.com/rladies-london/events/237327713/&#34;&gt;R-Ladies London&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>arapaima.uk</title>
+      <title>Personal Branding for Data Scientists</title>
+      <link>http://lockedata.uk/personal-branding/</link>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/personal-branding/</guid>
+      <description>
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/personalbranding.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/personalbranding.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;January 24th, 2017 - &lt;a href=&#34;https://www.meetup.com/Bristol-Data-Scientists/events/236662894/&#34;&gt;Bristol Data Scientists&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data &#43; Docker = Discombobulating?</title>
+      <link>http://lockedata.uk/data-docker-discombobulating/</link>
+      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/data-docker-discombobulating/</guid>
+      <description>
+
+&lt;p&gt;Learn about Docker and how you can store data in Docker containers safely.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;If you’re like me, you like your data to stick around for a long time and most importantly you want to know it’s &lt;em&gt;safe&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the Docker world, there’s the maxim of “never patch”, always make a new container with the latest version of the application. If we’re sticking in our database in a container like Microsoft are doing with SQL Server now, what happens when we need to apply the latest patches? Will we lose our data?&lt;/p&gt;
+
+&lt;p&gt;In this talk, we’ll look at the sorts of data we need to think about (it’s not just databases!) and how Docker containers work. We’ll then look at how we can save our data from disappearing when we load a new version of our Docker container. Once we know how to safeguard ourselves, we’ll look at some of the architectural options you have when working with data and Docker.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/datadockerdisconbobulating.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/datadockerdisconbobulating.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Get more info and supporting scripts in the &lt;a href=&#34;https://github.com/stephlocke/datadockerdisconbobulating&#34;&gt;repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/204426728&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;November 3rd, 2016 - &lt;a href=&#34;http://2016.bris.tech/&#34;&gt;Bris.tech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;January 18th, 2017 - &lt;a href=&#34;http://ndc-london.com/&#34;&gt;NDC London&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Get going with modern R in SQL Server in 30 minutes</title>
+      <link>http://lockedata.uk/microsoft-sql-server-and-r-services/</link>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/microsoft-sql-server-and-r-services/</guid>
+      <description>
+
+&lt;p&gt;Learn about provisioning data science machines for production, programmatically.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Description
+Starting with provisioning a SQL Server on Azure, this end to end demo shows you how get everything set up to start using the best R packages available in realtime.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/RonSQLServer.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/RonSQLServer.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Get more info in the &lt;a href=&#34;https://github.com/stephlocke/SQLServerVM-tidyverse&#34;&gt;repository&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+&lt;iframe src=&#34;https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online--Future-Decoded/Get-going-with-modern-R-in-SQL-Server-in-30-minutes/player&#34; width=&#34;960&#34; height=&#34;540&#34; allowFullScreen frameBorder=&#34;0&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;October 24th, 2016 - &lt;a href=&#34;http://budapest.satrdays.org&#34;&gt;UK TechDays Online at Future Decoded&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Board Packs: Combining Shiny, LaTeX And Databases For Full Effect</title>
+      <link>http://lockedata.uk/board-packs/</link>
+      <pubDate>Sat, 03 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/board-packs/</guid>
+      <description>
+
+&lt;p&gt;Making complex report compilation easy is something we can do in R. Learn how!&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;The monthly report pack for the Board &amp;ndash; with lots of information from different sources and all requiring commentary from lots of people &amp;ndash; these things can take weeks to produce, send for commentary, and then compile into one pack.
+This full hour takes you through a framework for a single core source document, a shiny interface, hooks into the database for commentary, and the LaTeX (or markdown) document structure needed for developing a single interface through which lots of people can contribute to a single document.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/boardpack.html#/get-the-code&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/boardpack.html#/get-the-code&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;June 30th, 2015 - &lt;a href=&#34;https://www.meetup.com/Cardiff-R-User-Group/events/221126308/&#34;&gt;caRdiff&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;September 15th, 2015 - &lt;a href=&#34;https://earlconf.com/2015/london/Agenda.html&#34;&gt;EARL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Infrastructure for R peeps</title>
+      <link>http://lockedata.uk/infrastructure-for-rpeeps/</link>
+      <pubDate>Sat, 03 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/infrastructure-for-rpeeps/</guid>
+      <description>
+
+&lt;p&gt;It&amp;rsquo;s important to know how to work your operating systems &amp;ndash; if only so you know how to avoid working with your operating systems!&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Continuous integration, Docker, openCPU, shiny server, RStudio server, Microsoft R Server, R in Hadoop, your laptop, your grid computer &amp;hellip; There&amp;rsquo;s a lot of infrastructure out there and someone has to configure it. This session whistle-stops through networking, Linux basics, and other key concepts to help get you up to speed because one day, the person configuring the server could be you.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/infrastructureforRpeeps.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/infrastructureforRpeeps.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/yTjxkrMmWdA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;September 3rd, 2016 - &lt;a href=&#34;http://budapest.satrdays.org&#34;&gt;SatRdays Budapest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git in 5 minutes</title>
+      <link>http://lockedata.uk/git-in-5/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/git-in-5/</guid>
+      <description>
+
+&lt;p&gt;Learn about source control &amp;ndash; it&amp;rsquo;ll save your bacon!&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Git can seem scary but once you know a few key terms it&amp;rsquo;s pretty easy day to day. This lightning talk helps fasttrack you through the basics.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/gitin5.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/gitin5.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;July 27th, 2016 - &lt;a href=&#34;https://www.sqlrelay.co.uk/event/guerrilla-talks-lightning-talks-2/&#34;&gt;SQL Guerilla talks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting better with data</title>
+      <link>http://lockedata.uk/getting-better-with-data/</link>
+      <pubDate>Wed, 08 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/getting-better-with-data/</guid>
+      <description>
+
+&lt;p&gt;Aimed at security folks, this talk is about how people involved with protecting our data can use some of it to improve protection.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;So many alerts and dashboards, so little time. It&amp;rsquo;s incredibly tough to know what to focus on when monitoring your network. This talk takes you through some ways of using the data available to you to reduce unimportant alerts, and liberating your time.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/betterwithdata.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/betterwithdata.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/isEL3LuZsB8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;June 8th, 2016 - &lt;a href=&#34;https://securitybsideslondon2016.sched.com/&#34;&gt;London BSides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cut the R Learning Curve</title>
+      <link>http://lockedata.uk/cut-the-r-learning-curve/</link>
+      <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/cut-the-r-learning-curve/</guid>
+      <description>
+
+&lt;p&gt;Avoid the pain of learning R by finding out about the best bits.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;R is a powerful language to add to the BI, analytics and data science technologies you may already be using. This session circumvents the painful experience of on-boarding a new technology and will give you the foundation needed to use R effectively.Topics covered will include effective R coding, development best-practices, using R as a reporting tool, and how to build and administer a solid platform for analysis.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/RLearningCurve.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/RLearningCurve.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!--## Videos--&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;May 6th, 2016 - &lt;a href=&#34;http://sqlbits.com/%28S%28fueva455qrdns245thsoiovo%29%29/Sessions/Event15/Cut_the_R_learning_curve&#34;&gt;SQLBits XV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;May 21st, 2016 - &lt;a href=&#34;http://tugait.pt/2016/sessions/cut-the-r-learning-curve/&#34;&gt;TUGA IT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My ways of being lazy with infrastructure</title>
+      <link>http://lockedata.uk/being-lazy-with-infrastructure/</link>
+      <pubDate>Tue, 17 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/being-lazy-with-infrastructure/</guid>
+      <description>
+
+&lt;p&gt;Learn how we can take some of the effort out of infrastructure work&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Oops, I never made one apparently!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/lazyinfrastructure.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/lazyinfrastructure.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;May 17th, 2016 - &lt;a href=&#34;http://budapest.satrdays.org&#34;&gt;IT Pro Portugal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skilling up to code with data</title>
       <link>http://lockedata.uk/skilling-up-to-code-with-data/</link>
-      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
+      <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://lockedata.uk/skilling-up-to-code-with-data/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Coding helps you scale as an analyst - learn some important concepts to help you get started.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;It’s starting to feel like every data project is a software project. It’s becoming essential to have some coding skills to really analyse your data.  This session will cover how you can get to grips with programming.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why code with data&lt;/li&gt;
+&lt;li&gt;What coding languages can be used&lt;/li&gt;
+&lt;li&gt;Coding best practices&lt;/li&gt;
+&lt;li&gt;Source control&lt;/li&gt;
+&lt;li&gt;Testing&lt;/li&gt;
+&lt;li&gt;Continuous testing (&amp;amp; deployment)&lt;/li&gt;
+&lt;li&gt;Coding your infrastructure&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/skillinguptocodewithdata.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/skillinguptocodewithdata.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!--## Videos--&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;April 13th, 2016 - &lt;a href=&#34;http://www.meetup.com/London-Business-Analytics-Group/events/229122315/&#34;&gt;London Business Analytics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

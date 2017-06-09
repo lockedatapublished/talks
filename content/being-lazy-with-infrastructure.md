@@ -1,13 +1,23 @@
 +++
-showonlyimage = false
 draft = false
-thumbnail = "/img/Play.png"
-date = "2017-03-20T18:25:22+05:30"
-title = "arapaima.uk"
-subtitle="Data, databases, delivery"
-weight = 1
-tags = []
-categories = ["presentation"]
+thumbnail = "/img/CloudUplink.png"
+date = "2016-05-17"
+title = "My ways of being lazy with infrastructure"
+tags = ["infrastructure","fundamentals"]
+categories = ["DataOps"]
 +++
 
-I'm Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.
+Learn how we can take some of the effort out of infrastructure work
+
+## Abstract
+**Oops, I never made one apparently!**
+
+## Slides
+View the presentation [full screen](http://stephlocke.info/Rtraining/lazyinfrastructure.html#/) or view it below. Hit the Space bar to navigate through the slides.
+
+<iframe src="http://stephlocke.info/Rtraining/lazyinfrastructure.html#/" width="960" height="540"></iframe>
+
+
+
+## Presentation history
+- May 17th, 2016 - [IT Pro Portugal](http://budapest.satrdays.org)

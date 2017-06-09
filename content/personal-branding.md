@@ -1,13 +1,19 @@
 +++
-showonlyimage = false
 draft = false
-thumbnail = "/img/Play.png"
-date = "2017-03-20T18:25:22+05:30"
-title = "arapaima.uk"
-subtitle="Data, databases, delivery"
-weight = 1
-tags = []
-categories = ["presentation"]
+thumbnail = "/img/Users.png"
+date = "2017-01-24"
+title = "Personal Branding for Data Scientists"
+tags = ["careers"]
+categories = ["Professional Development"]
 +++
 
-I'm Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.
+
+## Slides
+View the presentation [full screen](http://stephlocke.info/Rtraining/personalbranding.html) or view it below. Hit the Space bar to navigate through the slides.
+
+<iframe src="http://stephlocke.info/Rtraining/personalbranding.html" width="960" height="540"></iframe>
+
+
+
+## Presentation history
+- January 24th, 2017 - [Bristol Data Scientists](https://www.meetup.com/Bristol-Data-Scientists/events/236662894/)

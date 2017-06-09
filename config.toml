@@ -1,6 +1,6 @@
 baseurl = "http://lockedata.uk/"
 languageCode = "en-gb"
-title = "Locke Data"
+title = "Locke Data Talks"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code

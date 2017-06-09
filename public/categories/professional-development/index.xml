@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professional Development on Locke Data Talks</title>
+    <link>http://lockedata.uk/categories/professional-development/index.xml</link>
+    <description>Recent content in Professional Development on Locke Data Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <atom:link href="http://lockedata.uk/categories/professional-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Personal Branding for Data Scientists</title>
+      <link>http://lockedata.uk/personal-branding/</link>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/personal-branding/</guid>
+      <description>
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/personalbranding.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/personalbranding.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;January 24th, 2017 - &lt;a href=&#34;https://www.meetup.com/Bristol-Data-Scientists/events/236662894/&#34;&gt;Bristol Data Scientists&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
