@@ -6,8 +6,38 @@
     <description>Recent content on Locke Data Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 19 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://lockedata.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Failing my way to success with Azure</title>
+      <link>http://lockedata.uk/failing-my-way-to-success-with-azure/</link>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/failing-my-way-to-success-with-azure/</guid>
+      <description>
+
+&lt;p&gt;Experience my pain as I try to build an Azure Data Platform that scales.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Azure is a constantly evolving area, with more new features per day than I could shake a stick at. It’s awesome, you can use PowerShell, it’s cheaper than tin. It’s the future, so they tell me. It’s also a real PITA when you’re trying to achieve a task and you don’t know which bit is best!
+This talk takes you through my path to a cool analytics platform, showing you where, how, and why I failed. I’ll show you the gotchas, the ways to quickly prototype a solution, and how to clean up after you make a mess.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;../files/sqlgrillen.pdf&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;p&gt;&lt;embed src=&#34;../files/sqlgrillen.pdf&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;December 3rd, 2016 - &lt;a href=&#34;http://cloudbrew.be&#34;&gt;Cloudbrew&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;June 2nd, 2017 - &lt;a href=&#34;http://sqlgrillen.de&#34;&gt;SQLGrillen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Logistic Regressions in R</title>
@@ -471,46 +501,6 @@ This full hour takes you through a framework for a single core source document, 
 
 &lt;ul&gt;
 &lt;li&gt;May 17th, 2016 - &lt;a href=&#34;http://budapest.satrdays.org&#34;&gt;IT Pro Portugal&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Skilling up to code with data</title>
-      <link>http://lockedata.uk/skilling-up-to-code-with-data/</link>
-      <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://lockedata.uk/skilling-up-to-code-with-data/</guid>
-      <description>
-
-&lt;p&gt;Coding helps you scale as an analyst - learn some important concepts to help you get started.&lt;/p&gt;
-
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-
-&lt;p&gt;It’s starting to feel like every data project is a software project. It’s becoming essential to have some coding skills to really analyse your data.  This session will cover how you can get to grips with programming.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Why code with data&lt;/li&gt;
-&lt;li&gt;What coding languages can be used&lt;/li&gt;
-&lt;li&gt;Coding best practices&lt;/li&gt;
-&lt;li&gt;Source control&lt;/li&gt;
-&lt;li&gt;Testing&lt;/li&gt;
-&lt;li&gt;Continuous testing (&amp;amp; deployment)&lt;/li&gt;
-&lt;li&gt;Coding your infrastructure&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-
-&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/skillinguptocodewithdata.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
-
-&lt;iframe src=&#34;http://stephlocke.info/Rtraining/skillinguptocodewithdata.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
-
-&lt;!--## Videos--&gt;
-
-&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;April 13th, 2016 - &lt;a href=&#34;http://www.meetup.com/London-Business-Analytics-Group/events/229122315/&#34;&gt;London Business Analytics&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
