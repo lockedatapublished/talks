@@ -1,0 +1,57 @@
+.logo a,  title, article.lism .title, article.li .title {
+    color: #2165B6;
+}
+
+.terms a {
+    background-color: #E8830C;
+}
+
+.logo a {
+    font-size: 5rem;
+}
+
+.logoimg {
+    height: 4rem;
+}
+
+article {
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+article.li {
+  background-color: #fff;
+  box-shadow: 0 0 0 1px rgba(63,63,68,.05), 0 1px 3px rgba(63,63,68,.1), 0 1px 2px rgba(0,0,0,.05);
+  height: 24rem;
+  overflow: hidden;
+  margin: 1rem 0;
+}
+
+article.li .thumb {
+  height: 16rem;
+}
+
+
+article.li .summary {
+  font-size: .8rem;
+  height: 5rem;
+  overflow: hidden;
+  margin-top: 0rem;
+}
+
+article.sn .thumb {
+  height: 24rem;
+}
+
+.c1 {width: calc(100%/12)}
+.c2 {width: calc(200%/12)}
+.c3 {width: calc(300%/12)}
+.c4 {width: calc(400%/12)}
+.c5 {width: calc(500%/12)}
+.c6 {width: calc(600%/12)}
+.c7 {width: calc(700%/12)}
+.c8 {width: calc(800%/12)}
+.c9 {width: calc(900%/12)}
+.c10 {width: calc(1000%/12)}
+.c11 {width: calc(1100%/12)}
+.c12 {width: calc(1200%/12)}

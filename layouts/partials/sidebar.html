@@ -1,0 +1,28 @@
+<aside class="l-sidebar">
+
+  <div class="sections sidebar">
+    <section class="sidebar">
+	 {{ range $key, $value := .Site.Taxonomies }}
+    <section class="sidebar">
+      <header>{{ $key | upper }}</header>
+      <div>
+        <ul class="terms">
+          {{ range first 10 $value.ByCount }}<li><a href="{{ $.Site.BaseURL}}{{ $key }}/{{ .Name | urlize }}">{{ .Name }}</a></li>{{ end }}
+        </ul>
+      </div>
+    </section>
+    {{ end }}
+      <header>LATEST</header>
+      <div>
+        <div class="articles sm">
+          {{ range $i, $p := (first 10 .Site.Pages) }}
+          {{ .Render "li_sm" }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+
+   
+  </div>
+
+</aside>

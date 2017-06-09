@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Locke Data Talks</title>
+    <link>http://lockedata.uk/tags/r/index.xml</link>
+    <description>Recent content in R on Locke Data Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <atom:link href="http://lockedata.uk/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Logistic Regressions in R</title>
+      <link>http://lockedata.uk/logistic-regressions-in-r/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/logistic-regressions-in-r/</guid>
+      <description>
+
+&lt;p&gt;Learn what logistic regressions are. See how we can use R to prepare data, build models, and evaluate them.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Learn about a fundamental type of model used to make classification prredictions and probabilities of an outcome&amp;rsquo;s likelihood.&lt;/p&gt;
+
+&lt;p&gt;Logistic regressions are a core model in machine learning, inherited from statistics, and it&amp;rsquo;s vital to understand them if you&amp;rsquo;re interested in data science.&lt;/p&gt;
+
+&lt;p&gt;The neat thing is they&amp;rsquo;re pretty simple!&lt;/p&gt;
+
+&lt;p&gt;Learn about how they works and how you go about programming a logistic regression from end to end in R.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/logisticregressions.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/logisticregressions.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;You can also check out a more extended workshop on &lt;a href=&#34;http://lockedata.uk/LogisticRegressionWorkshop/&#34;&gt;Logistic Regressions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/k2Of6NKnMsI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;April 19th 2017, Plymouth University Psychology faculty&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>data.table power hour</title>
+      <link>http://lockedata.uk/datatable-powerhour/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/datatable-powerhour/</guid>
+      <description>
+
+&lt;p&gt;Learn how to use this fantastic package in R for high-speed, low-code table wrangling.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;The package data.table is super-fast and super-powerful and can turn your long-winded and slow R code into a lean, mean, data-crunching machine. This hour takes you through the key aspects of the package and how it can make your life better.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll be looking at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basic syntax&lt;/li&gt;
+&lt;li&gt;Data I/O&lt;/li&gt;
+&lt;li&gt;Joins&lt;/li&gt;
+&lt;li&gt;Within group activities&lt;/li&gt;
+&lt;li&gt;Pivoting data&lt;/li&gt;
+&lt;li&gt;Cool hacks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;stephlocke.info/Rtraining/datatablepowerhour.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;stephlocke.info/Rtraining/datatablepowerhour.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!-- ## Videos --&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;April 7th, 2017 - &lt;a href=&#34;http://sqlbits.com/Sessions/Event16/data_table_power_hour&#34;&gt;SQLBits XVI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>data.table in 5 minutes</title>
+      <link>http://lockedata.uk/datatable-in-5/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/datatable-in-5/</guid>
+      <description>
+
+&lt;p&gt;Get a quick overview about the R package data.table&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;The package data.table is super-fast and super-powerful and can turn your long-winded and slow R code into a lean, mean, data-crunching machine. This quick talk takes you through the most important features and benefits.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/datatablein5.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/datatablein5.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!--## Videos--&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;March 15th, 2017 - &lt;a href=&#34;http://stephlocke.info/Rtraining/datatablein5.html#/&#34;&gt;Data Science Exeter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The You in Community</title>
+      <link>http://lockedata.uk/the-you-in-community/</link>
+      <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/the-you-in-community/</guid>
+      <description>
+
+&lt;p&gt;Keynote about why and how peoeple can get involved in the R community.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/youincommunity.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/youincommunity.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/vqP2uTYOWK4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;February 18th, 2017 - &lt;a href=&#34;http://capetown2017.satrdays.org/&#34;&gt;SatRdays Cape Town&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reproducible R docs in github</title>
+      <link>http://lockedata.uk/reproducible-r-docs-in-github/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/reproducible-r-docs-in-github/</guid>
+      <description>
+
+&lt;p&gt;Learn how to build awesome docs in R and github.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;We can combine R and Github to make fantastic data driven documents, blogs, books and more. This talk takes you through the building blocks and how you can use them for different types of documents.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/reproducibledocs.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/reproducibledocs.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!--## Videos--&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;February 13th, 2017 - &lt;a href=&#34;https://www.meetup.com/rladies-london/events/237327713/&#34;&gt;R-Ladies London&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Get going with modern R in SQL Server in 30 minutes</title>
+      <link>http://lockedata.uk/microsoft-sql-server-and-r-services/</link>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/microsoft-sql-server-and-r-services/</guid>
+      <description>
+
+&lt;p&gt;Learn about provisioning data science machines for production, programmatically.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Description
+Starting with provisioning a SQL Server on Azure, this end to end demo shows you how get everything set up to start using the best R packages available in realtime.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/RonSQLServer.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/RonSQLServer.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Get more info in the &lt;a href=&#34;https://github.com/stephlocke/SQLServerVM-tidyverse&#34;&gt;repository&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+&lt;iframe src=&#34;https://channel9.msdn.com/Events/TechDaysOnline/UK-TechDays-Online--Future-Decoded/Get-going-with-modern-R-in-SQL-Server-in-30-minutes/player&#34; width=&#34;960&#34; height=&#34;540&#34; allowFullScreen frameBorder=&#34;0&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;October 24th, 2016 - &lt;a href=&#34;http://budapest.satrdays.org&#34;&gt;UK TechDays Online at Future Decoded&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Board Packs: Combining Shiny, LaTeX And Databases For Full Effect</title>
+      <link>http://lockedata.uk/board-packs/</link>
+      <pubDate>Sat, 03 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/board-packs/</guid>
+      <description>
+
+&lt;p&gt;Making complex report compilation easy is something we can do in R. Learn how!&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;The monthly report pack for the Board &amp;ndash; with lots of information from different sources and all requiring commentary from lots of people &amp;ndash; these things can take weeks to produce, send for commentary, and then compile into one pack.
+This full hour takes you through a framework for a single core source document, a shiny interface, hooks into the database for commentary, and the LaTeX (or markdown) document structure needed for developing a single interface through which lots of people can contribute to a single document.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/boardpack.html#/get-the-code&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/boardpack.html#/get-the-code&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;June 30th, 2015 - &lt;a href=&#34;https://www.meetup.com/Cardiff-R-User-Group/events/221126308/&#34;&gt;caRdiff&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;September 15th, 2015 - &lt;a href=&#34;https://earlconf.com/2015/london/Agenda.html&#34;&gt;EARL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cut the R Learning Curve</title>
+      <link>http://lockedata.uk/cut-the-r-learning-curve/</link>
+      <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/cut-the-r-learning-curve/</guid>
+      <description>
+
+&lt;p&gt;Avoid the pain of learning R by finding out about the best bits.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;R is a powerful language to add to the BI, analytics and data science technologies you may already be using. This session circumvents the painful experience of on-boarding a new technology and will give you the foundation needed to use R effectively.Topics covered will include effective R coding, development best-practices, using R as a reporting tool, and how to build and administer a solid platform for analysis.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/RLearningCurve.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/RLearningCurve.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!--## Videos--&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;May 6th, 2016 - &lt;a href=&#34;http://sqlbits.com/%28S%28fueva455qrdns245thsoiovo%29%29/Sessions/Event15/Cut_the_R_learning_curve&#34;&gt;SQLBits XV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;May 21st, 2016 - &lt;a href=&#34;http://tugait.pt/2016/sessions/cut-the-r-learning-curve/&#34;&gt;TUGA IT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skilling up to code with data</title>
+      <link>http://lockedata.uk/skilling-up-to-code-with-data/</link>
+      <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/skilling-up-to-code-with-data/</guid>
+      <description>
+
+&lt;p&gt;Coding helps you scale as an analyst - learn some important concepts to help you get started.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;It’s starting to feel like every data project is a software project. It’s becoming essential to have some coding skills to really analyse your data.  This session will cover how you can get to grips with programming.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why code with data&lt;/li&gt;
+&lt;li&gt;What coding languages can be used&lt;/li&gt;
+&lt;li&gt;Coding best practices&lt;/li&gt;
+&lt;li&gt;Source control&lt;/li&gt;
+&lt;li&gt;Testing&lt;/li&gt;
+&lt;li&gt;Continuous testing (&amp;amp; deployment)&lt;/li&gt;
+&lt;li&gt;Coding your infrastructure&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/skillinguptocodewithdata.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/skillinguptocodewithdata.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!--## Videos--&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;April 13th, 2016 - &lt;a href=&#34;http://www.meetup.com/London-Business-Analytics-Group/events/229122315/&#34;&gt;London Business Analytics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistics 101</title>
+      <link>http://lockedata.uk/stats-101/</link>
+      <pubDate>Sat, 12 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/stats-101/</guid>
+      <description>
+
+&lt;p&gt;Take a visual, intuitive tour through some important concepts of statistics.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;We can be better at our jobs if we have a good grasp of basic statistics.&lt;/p&gt;
+
+&lt;p&gt;It doesn’t matter if you’re a DBA looking to understand query plan performance, a data warehouse person needing to come up with ETL load time estimates, or an analyst needing to report figures to managers. Statistics can help you all.&lt;/p&gt;
+
+&lt;p&gt;If only maths classes hadn’t been so darn boring!&lt;/p&gt;
+
+&lt;p&gt;Instead of going all mathsy, we’ll be doing some real-time data capture and taking an intuitive and visual approach through summary statistics right up to understanding how to produce simple predictive models.&lt;/p&gt;
+
+&lt;p&gt;By the end of the session, you’ll understand concepts like sampling, error, regression, and outliers – important day-to-day stuff and a great base upon which to build. By the end of the session, you’ll wonder how people could have it made seem so hard for so many years.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/stats101.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/stats101.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!-- ## Videos --&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;March 12th, 2016 - &lt;a href=&#34;http://www.sqlsaturday.com/496/EventHome.aspx&#34;&gt;SQLSaturday #496 Exeter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analytical web services</title>
+      <link>http://lockedata.uk/analytical-web-services/</link>
+      <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/analytical-web-services/</guid>
+      <description>
+
+&lt;p&gt;&amp;ldquo;Works on my machine&amp;rdquo; isn&amp;rsquo;t useful - learn how we can get our models into production.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;In your day job you build some awesome bit of analysis in R but now people want this information available real time and against every thing that comes into the business - you need an R web service but not being a developer you have no clue how to go about it.&lt;/p&gt;
+
+&lt;p&gt;This session takes you through how to convert your analysis into a web service and how to take into account important stuff like security, scalability and error handling. We discuss the technologies and the defensive programming you should be using to help get you through.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/webservices.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/webservices.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/GFt0P4UtIPI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;October 12th, 2015 - &lt;a href=&#34;https://app.attendee.events/SQLRelay2015London/E/Agenda/AgendaSession/337&#34;&gt;SQL Relay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;October 21st, 2015 - &lt;a href=&#34;https://www.meetup.com/RBelgium/events/225464911/&#34;&gt;RBelgium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;March 10th, 2016 - &lt;a href=&#34;https://www.eventbrite.com/e/lidnug-steph-locke-implementing-analytics-in-your-applications-tickets-21681931240&#34;&gt;LIDNUG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowing your Rs from your elbow</title>
+      <link>http://lockedata.uk/knowing-your-Rs-from-your-elbow/</link>
+      <pubDate>Sun, 04 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/knowing-your-Rs-from-your-elbow/</guid>
+      <description>
+
+&lt;p&gt;Learn the fundamentals of R.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;R, a fantastic open-source language, will rock your world.&lt;/p&gt;
+
+&lt;p&gt;Instead of showing you how to do dry old statistics and worrying about your random trees and bagging methods, this session is going to take you through the super-cool stuff. No TLAs allowed in this session, only cool terms like shiny &amp;amp; LaTeX!&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re gonna get your data out of SQL Server in just a few lines, then we&amp;rsquo;re going to chart it for awesomeness, and then the fun begins.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll go through the easy experience of using shiny to make interactive, real-time reports.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll show you how you can add markdown &amp;amp; LaTeX to the mix to replace Excel, PowerPoint &amp;amp; Word so that you can save yourself months over your lifetime formatting bullet points and headers.&lt;/p&gt;
+
+&lt;p&gt;By the end of this session, you&amp;rsquo;ll truly know your Rs from your elbow.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/KnowingYourRsFromYourElbow.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/KnowingYourRsFromYourElbow.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/132092881&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;October 14th, 2015 &lt;a href=&#34;https://app.attendee.events/SQLRelay2015Cardiff/E/Agenda/AgendaSession/267&#34;&gt;SQL Relay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;September 8th, 2015 &lt;a href=&#34;http://sqlne.pass.org/?EventID=3788&#34;&gt;SQLNE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R for Developers</title>
+      <link>http://lockedata.uk/r-for-developers/</link>
+      <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/r-for-developers/</guid>
+      <description>
+
+&lt;p&gt;Learn about R from a developer perspective.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Whether you&amp;rsquo;re interested in picking up another language, or you need to understand what those new data scientists have written and how you go about implementing their crazy new algorithms in your front-end, this session will take you through the R fundamentals, drawing comparisons against other languages, and give you a load of tips to make getting started easier.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/r101.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/r101.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!--## Videos--&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;September 24th, 2015 - &lt;a href=&#34;http://appdev.pass.org/?EventID=3838&#34;&gt;Application Development PASS Virtual Chapter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intro to R</title>
+      <link>http://lockedata.uk/intro-to-r/</link>
+      <pubDate>Fri, 04 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/intro-to-r/</guid>
+      <description>
+
+&lt;p&gt;Learn the fundamentals of R.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;R, the statistical programming language, is another open-source program making inroads into the Microsoft world.&lt;/p&gt;
+
+&lt;p&gt;R was originally for doing stats, but it now does database CRUD, reporting, documentation, and even websites.  It can be awkward to know where to start, so this session fast tracks you to the sections you need to know about to save yourself pains you didn&amp;rsquo;t even know you had.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/Rintro.html&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/Rintro.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+&lt;video width=&#34;640&#34; height=&#34;363&#34; controls=&#34;controls&#34; poster=&#34;https://sqlbits.com/information/Agenda/VideoImage.ashx?SessionId=4209&amp;amp;Regenerate=0&#34;&gt;
+        &lt;source src=&#34;http://files.sqlbits.com/event12/Intro_to_R/Intro_to_R.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;/video&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;July 2014 - &lt;a href=&#34;https://sqlbits.com/Content/Event12&#34;&gt;SQLBits XII&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

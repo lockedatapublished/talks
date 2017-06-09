@@ -7,6 +7,7 @@
           <img  src="{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}" alt="Locke Data">
         </div>
         <h3>{{with .Site.Params.Description }}{{ . | markdownify }}{{ end }}</h3>
+		{{ partial "talks.html" . }}
         {{ partial "social.html" . }}
         </div>
       </section>

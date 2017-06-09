@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on Locke Data</title>
+    <link>http://lockedata.uk/presentations/index.xml</link>
+    <description>Recent content in Presentations on Locke Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 20 Mar 2017 18:25:22 +0530</lastBuildDate>
+    <atom:link href="http://lockedata.uk/presentations/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>arapaima.uk</title>
+      <link>http://lockedata.uk/presentations/sample/</link>
+      <pubDate>Mon, 20 Mar 2017 18:25:22 +0530</pubDate>
+      
+      <guid>http://lockedata.uk/presentations/sample/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Gavin Campbell, a freelance database developer specialised in improving working practices in database delivery through the use of tools such as SQL Server Data Tools, tSQLt, Visual Studio Team Services, Git and Jenkins, on platforms such as AWS and Microsoft Azure, and methodologies such as Continuous Delivery and Agile.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

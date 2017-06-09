@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on Locke Data Talks</title>
+    <link>http://lockedata.uk/categories/data-science/index.xml</link>
+    <description>Recent content in Data Science on Locke Data Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <atom:link href="http://lockedata.uk/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Logistic Regressions in R</title>
+      <link>http://lockedata.uk/logistic-regressions-in-r/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/logistic-regressions-in-r/</guid>
+      <description>
+
+&lt;p&gt;Learn what logistic regressions are. See how we can use R to prepare data, build models, and evaluate them.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Learn about a fundamental type of model used to make classification prredictions and probabilities of an outcome&amp;rsquo;s likelihood.&lt;/p&gt;
+
+&lt;p&gt;Logistic regressions are a core model in machine learning, inherited from statistics, and it&amp;rsquo;s vital to understand them if you&amp;rsquo;re interested in data science.&lt;/p&gt;
+
+&lt;p&gt;The neat thing is they&amp;rsquo;re pretty simple!&lt;/p&gt;
+
+&lt;p&gt;Learn about how they works and how you go about programming a logistic regression from end to end in R.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/logisticregressions.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/logisticregressions.html&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;You can also check out a more extended workshop on &lt;a href=&#34;http://lockedata.uk/LogisticRegressionWorkshop/&#34;&gt;Logistic Regressions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/k2Of6NKnMsI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;April 19th 2017, Plymouth University Psychology faculty&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistics 101</title>
+      <link>http://lockedata.uk/stats-101/</link>
+      <pubDate>Sat, 12 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockedata.uk/stats-101/</guid>
+      <description>
+
+&lt;p&gt;Take a visual, intuitive tour through some important concepts of statistics.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;We can be better at our jobs if we have a good grasp of basic statistics.&lt;/p&gt;
+
+&lt;p&gt;It doesn’t matter if you’re a DBA looking to understand query plan performance, a data warehouse person needing to come up with ETL load time estimates, or an analyst needing to report figures to managers. Statistics can help you all.&lt;/p&gt;
+
+&lt;p&gt;If only maths classes hadn’t been so darn boring!&lt;/p&gt;
+
+&lt;p&gt;Instead of going all mathsy, we’ll be doing some real-time data capture and taking an intuitive and visual approach through summary statistics right up to understanding how to produce simple predictive models.&lt;/p&gt;
+
+&lt;p&gt;By the end of the session, you’ll understand concepts like sampling, error, regression, and outliers – important day-to-day stuff and a great base upon which to build. By the end of the session, you’ll wonder how people could have it made seem so hard for so many years.&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;View the presentation &lt;a href=&#34;http://stephlocke.info/Rtraining/stats101.html#/&#34;&gt;full screen&lt;/a&gt; or view it below. Hit the Space bar to navigate through the slides.&lt;/p&gt;
+
+&lt;iframe src=&#34;http://stephlocke.info/Rtraining/stats101.html#/&#34; width=&#34;960&#34; height=&#34;540&#34;&gt;&lt;/iframe&gt;
+
+&lt;!-- ## Videos --&gt;
+
+&lt;h2 id=&#34;presentation-history&#34;&gt;Presentation history&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;March 12th, 2016 - &lt;a href=&#34;http://www.sqlsaturday.com/496/EventHome.aspx&#34;&gt;SQLSaturday #496 Exeter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
