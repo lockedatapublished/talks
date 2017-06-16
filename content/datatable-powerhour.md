@@ -22,9 +22,9 @@ We'll be looking at:
 - Cool hacks
 
 ## Slides
-View the presentation [full screen](stephlocke.info/Rtraining/datatablepowerhour.html) or view it below. Hit the Space bar to navigate through the slides.
+View the presentation [full screen](http://stephlocke.info/Rtraining/datatablepowerhour.html) or view it below. Hit the Space bar to navigate through the slides.
 
-<iframe src="stephlocke.info/Rtraining/datatablepowerhour.html" width="960" height="540"></iframe>
+<iframe src="http://stephlocke.info/Rtraining/datatablepowerhour.html" width="960" height="540"></iframe>
 
 
 <!-- ## Videos -->

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://lockedata.uk/failing-my-way-to-success-with-azure/</loc>
@@ -97,7 +98,7 @@
   </url>
   
   <url>
-    <loc>http://lockedata.uk/knowing-your-Rs-from-your-elbow/</loc>
+    <loc>http://lockedata.uk/knowing-your-rs-from-your-elbow/</loc>
     <lastmod>2015-10-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -255,6 +256,7 @@
   
   <url>
     <loc>http://lockedata.uk/tags/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
