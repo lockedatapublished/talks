@@ -1,7 +1,7 @@
 +++
 draft = false
 thumbnail = "/img/MachineLearning.png"
-date = "2017-01-18"
+date = "2017-06-26"
 title = "Data + Docker = Discombobulating?"
 tags = ["infrastructure","docker"]
 categories = ["DataOps"]
@@ -29,4 +29,5 @@ Get more info and supporting scripts in the [repository](https://github.com/step
 ## Presentation history
 - November 3rd, 2016 - [Bris.tech](http://2016.bris.tech/)
 - January 18th, 2017 - [NDC London](http://ndc-london.com/)
+- June 26th, 2017 - [R & SQL Northeast](attending.io/events/r-north-june-26-2017)
 
