@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://lockedata.uk/coping-with-growth/</loc>
+    <lastmod>2017-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lockedata.uk/power-bi-painpoints/</loc>
     <lastmod>2017-06-29T00:00:00+00:00</lastmod>
   </url>
@@ -140,7 +145,7 @@
   
   <url>
     <loc>http://lockedata.uk/tags/azure/</loc>
-    <lastmod>2017-06-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -181,7 +186,7 @@
   
   <url>
     <loc>http://lockedata.uk/categories/dataops/</loc>
-    <lastmod>2017-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -205,13 +210,19 @@
   
   <url>
     <loc>http://lockedata.uk/tags/infrastructure/</loc>
-    <lastmod>2017-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lockedata.uk/tags/lambda/</loc>
+    <lastmod>2017-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://lockedata.uk/</loc>
-    <lastmod>2017-06-29T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
