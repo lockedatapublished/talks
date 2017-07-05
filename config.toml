@@ -8,7 +8,8 @@ googleAnalytics = "UA-58415537-3"
 theme = "hugo_theme_robust"
 
 [outputs]
-page = [ "HTML", "AMP" ]
+ home = [ "HTML", "AMP", "RSS"]
+ page = [ "HTML", "AMP"]
 
 [params]
   avatar = "img/PadLocke.svg"
