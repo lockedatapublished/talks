@@ -277,10 +277,10 @@ Abstract In your day job you build some awesome bit of analysis in R but now peo
     
     <item>
       <title>Knowing your Rs from your elbow</title>
-      <link>http://lockedata.uk/knowing-your-rs-from-your-elbow/</link>
+      <link>http://lockedata.uk/knowing-rs-from-elbow/</link>
       <pubDate>Sun, 04 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://lockedata.uk/knowing-your-rs-from-your-elbow/</guid>
+      <guid>http://lockedata.uk/knowing-rs-from-elbow/</guid>
       <description>Learn the fundamentals of R.
 Abstract R, a fantastic open-source language, will rock your world.
 Instead of showing you how to do dry old statistics and worrying about your random trees and bagging methods, this session is going to take you through the super-cool stuff. No TLAs allowed in this session, only cool terms like shiny &amp;amp; LaTeX!

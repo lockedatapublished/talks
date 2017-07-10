@@ -5,6 +5,7 @@ date = "2015-10-04"
 title = "Knowing your Rs from your elbow"
 tags = ["R","fundamentals"]
 categories = ["programming"]
+slug="knowing-rs-from-elbow"
 +++
 
 Learn the fundamentals of R.
