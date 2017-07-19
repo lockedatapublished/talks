@@ -27,7 +27,19 @@ View the presentation [full screen](http://stephlocke.info/Rtraining/datatablepo
 <iframe src="http://stephlocke.info/Rtraining/datatablepowerhour.html" width="960" height="540"></iframe>
 
 
-<!-- ## Videos -->
+## Videos
+
+<link href="//amp.azure.net/libs/amp/latest/skins/amp-default/azuremediaplayer.min.css" rel="stylesheet">
+<link rel="stylesheet" href="//amp.azure.net/libs/amp/latest/skins/amp-default/azuremediaplayer.min.css" />
+<script src= "//amp.azure.net/libs/amp/latest/azuremediaplayer.min.js"></script>
+<div id="ctl00_ctl00_PageBody_Body_SessionVideo_VideoPanelAzureMediaPlayer">
+<div class="responsive-video">
+<video id="ctl00_ctl00_PageBody_Body_SessionVideo_AzurePlayer" class="azuremediaplayer amp-default-skin amp-big-play-centered" width="640" height="400" allowfullstreen="" controls="" data-setup="{&quot;logo&quot;: { &quot;enabled&quot;: false}, &quot;techOrder&quot;: [&quot;azureHtml5JS&quot;, &quot;flashSS&quot;, &quot;html5FairPlayHLS&quot;,&quot;silverlightSS&quot;, &quot;html5&quot;], &quot;nativeControlsForTouch&quot;: false}">
+<source id="AzurePlayerSource" src="https://sqlbitsvideo.streaming.mediaservices.windows.net/02e5234e-aaca-497e-9f3f-7d5c3a8b1744/5706.ism/manifest" type="application/vnd.ms-sstr+xml" />
+</video>
+</div>
+</div>
+
 
 ## Presentation history
 - April 7th, 2017 - [SQLBits XVI](http://sqlbits.com/Sessions/Event16/data_table_power_hour)
