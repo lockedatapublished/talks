@@ -1,34 +1,81 @@
-baseurl = "http://lockedata.uk/"
+baseurl = "http://lockelife.com/talks/"
 languageCode = "en-gb"
 title = "Locke Data Talks"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-58415537-3"
-theme = "hugo_theme_robust"
+theme = "hugo-lockedata-blog"
 
-[outputs]
- home = [ "HTML", "AMP", "RSS"]
- page = [ "HTML", "AMP"]
+[permalinks]
+  posts = "/:title/"
+  page                = "/:title/"
 
+[taxonomies]
+    tag                 = "tags"
+    category            = "categories"
+	status              = "statuses"
+	
+[[languages.en.menu.prepend]]
+    name                = "Locke Data"
+    weight              = 1
+    url                 = "http://lockelife.com"
+
+[[languages.en.menu.prepend]]
+    name                = "Talks"
+    weight              = 3
+    url                 = "."
+	
+ # Footer
+  [params.footer]
+    enable = true
+
+  [[languages.en.menu.social]]
+    weight = 10
+    name = "twitter"
+    pre = "<i class='fa fa-twitter'></i>"
+    url = "#"
+  [[languages.en.menu.social]]
+    weight = 20
+    name = "facebook"
+    pre = "<i class='fa fa-facebook'></i>"
+    url = "#"
+  [[languages.en.menu.social]]
+    weight = 30
+    name = "linkedin"
+    pre = "<i class='fa fa-linkedin'></i>"
+    url = "#"
+  [[languages.en.menu.footer]]
+    weight = 10
+    name = "Legalise and stuff"
+    url = "http://lockelife.com/#company"
 [params]
-  avatar = "img/PadLocke.svg"
+    keywords            = ["default", "keywords", "if", "no", "front", "matter"]
   author = "Locke Data"
   description = "Locke Data is a consultancy that helps people and organisations get started with data science. We offer training, advice, and technical leadership to make sure things go more smoothly. Find out more about us on our core site [itsalocke.com](https://itsalocke.com)."
   dateformat = "Jan 2, 2006" # Optional
-  # Fonts settings.
-  googlefonts = "https://fonts.googleapis.com/css?family=Roboto:400,700" # Optional, Include google fonts.
-  fontfamily = "Roboto,sans-serif" # Optional, Override body font family.
-  logofontfamily = "Roboto,sans-serif" # Optional, Override logo font.
+   google_analytics    = "UA-XXXXX-YY"
+    google_adsense      = "ca-pub-XXXXXX"
+    disqus              = "shortname"
+    google_webmaster    = ""
+    bing_webmaster      = ""
+    alexa               = ""
+    favicon             = ""
+copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
 
-  # Custom assets can be linked with their paths relative to static/
-  custom_css = []
-  custom_js  = []
-
-[params.social]
-  Home          = "//itsalocke.com"
-  Github        = "lockedata"
-  Email         = "contact@itsalocke.com"
-  Twitter       = "lockedata"
-  Linkedin      ="11032752"
-  
+  [params.navigation]
+    # Optional brand logo used in nav stored in 'static/img/'.
+    logo = "LockeDataTextNew.svg"
+	
+# Social media icons and links that appear in the footer
+[social]
+    twitter             = "https://www.twitter.com/NAME_HERE"
+    googleplus          = ""
+    linkedin            = "https://www.linkedin.com/in/NAME_HERE"
+    youtube             = "https://www.youtube.com/users/NAME_HERE"
+    paypal              = ""
+    instagram           = ""
+    reddit              = ""
+    email               = ""
+    pinterest           = ""
+    wordpress           = ""
