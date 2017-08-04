@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logistic Regression on Locke Data Talks</title>
+    <link>http://lockelife.com/talks/tags/logistic-regression/</link>
+    <description>Recent content in Logistic Regression on Locke Data Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Wed, 19 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lockelife.com/talks/tags/logistic-regression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Logistic Regressions in R</title>
+      <link>http://lockelife.com/talks/post/logistic-regressions-in-r/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/logistic-regressions-in-r/</guid>
+      <description>Learn what logistic regressions are. See how we can use R to prepare data, build models, and evaluate them.
+Abstract Learn about a fundamental type of model used to make classification prredictions and probabilities of an outcome&amp;rsquo;s likelihood.
+Logistic regressions are a core model in machine learning, inherited from statistics, and it&amp;rsquo;s vital to understand them if you&amp;rsquo;re interested in data science.
+The neat thing is they&amp;rsquo;re pretty simple!</description>
+    </item>
+    
+  </channel>
+</rss>

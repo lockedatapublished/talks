@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on Locke Data Talks</title>
+    <link>http://lockelife.com/talks/categories/data/</link>
+    <description>Recent content in Data on Locke Data Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Thu, 29 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lockelife.com/talks/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Solving Power BI painpoints with R</title>
+      <link>http://lockelife.com/talks/post/power-bi-painpoints/</link>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/power-bi-painpoints/</guid>
+      <description>Power BI is pretty nifty but it has some areas that R can help make easier.
+Abstract This session will look at how PowerBI dashboard developers can use R to solve data import and data visualisation challenges.
+By the end of this session, you’ll know how you can use R to connect to more data sources, do sophisticated data transformation easily, avoid spatial data point limitations, and build custom graphics.</description>
+    </item>
+    
+    <item>
+      <title>Getting better with data</title>
+      <link>http://lockelife.com/talks/post/getting-better-with-data/</link>
+      <pubDate>Wed, 08 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/getting-better-with-data/</guid>
+      <description>Aimed at security folks, this talk is about how people involved with protecting our data can use some of it to improve protection.
+Abstract So many alerts and dashboards, so little time. It&amp;rsquo;s incredibly tough to know what to focus on when monitoring your network. This talk takes you through some ways of using the data available to you to reduce unimportant alerts, and liberating your time.
+Slides View the presentation full screen or view it below.</description>
+    </item>
+    
+    <item>
+      <title>Skilling up to code with data</title>
+      <link>http://lockelife.com/talks/post/skilling-up-to-code-with-data/</link>
+      <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/skilling-up-to-code-with-data/</guid>
+      <description>Coding helps you scale as an analyst - learn some important concepts to help you get started.
+Abstract It’s starting to feel like every data project is a software project. It’s becoming essential to have some coding skills to really analyse your data. This session will cover how you can get to grips with programming.
+ Why code with data What coding languages can be used Coding best practices Source control Testing Continuous testing (&amp;amp; deployment) Coding your infrastructure  Slides View the presentation full screen or view it below.</description>
+    </item>
+    
+  </channel>
+</rss>

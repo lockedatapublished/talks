@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professional Development on Locke Data Talks</title>
+    <link>http://lockelife.com/talks/categories/professional-development/</link>
+    <description>Recent content in Professional Development on Locke Data Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Tue, 24 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lockelife.com/talks/categories/professional-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personal Branding for Data Scientists</title>
+      <link>http://lockelife.com/talks/post/personal-branding/</link>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/personal-branding/</guid>
+      <description> Slides View the presentation full screen or view it below. Hit the Space bar to navigate through the slides.
+ Presentation history  January 24th, 2017 - Bristol Data Scientists  </description>
+    </item>
+    
+  </channel>
+</rss>

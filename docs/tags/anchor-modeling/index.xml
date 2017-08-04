@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anchor Modeling on Locke Data Talks</title>
+    <link>http://lockelife.com/talks/tags/anchor-modeling/</link>
+    <description>Recent content in Anchor Modeling on Locke Data Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lockelife.com/talks/tags/anchor-modeling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anchor Modelling - agile databases</title>
+      <link>http://lockelife.com/talks/post/anchor-models/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/anchor-models/</guid>
+      <description>Yes, there&amp;rsquo;s normal forms beyond third, and yes they can be really useful!
+Abstract Anchor Modelling is a fantastic database modelling paradigm that uses sixth normal form (6NF) to store data and provides third normal form (3NF) views for ease of use.
+This session deep dives into all the concepts behind Anchor Modelling (and indeed databases generally!) and then takes you through how Anchor Modelling uses these concepts to move away from the traditional data warehouse paradigm to deliver a purely additive, agile database.</description>
+    </item>
+    
+  </channel>
+</rss>

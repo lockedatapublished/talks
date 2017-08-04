@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Power Bi on Locke Data Talks</title>
+    <link>http://lockelife.com/talks/tags/power-bi/</link>
+    <description>Recent content in Power Bi on Locke Data Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Thu, 29 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lockelife.com/talks/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Solving Power BI painpoints with R</title>
+      <link>http://lockelife.com/talks/post/power-bi-painpoints/</link>
+      <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/power-bi-painpoints/</guid>
+      <description>Power BI is pretty nifty but it has some areas that R can help make easier.
+Abstract This session will look at how PowerBI dashboard developers can use R to solve data import and data visualisation challenges.
+By the end of this session, you’ll know how you can use R to connect to more data sources, do sophisticated data transformation easily, avoid spatial data point limitations, and build custom graphics.</description>
+    </item>
+    
+  </channel>
+</rss>

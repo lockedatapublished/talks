@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataops on Locke Data Talks</title>
+    <link>http://lockelife.com/talks/categories/dataops/</link>
+    <description>Recent content in Dataops on Locke Data Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Wed, 05 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lockelife.com/talks/categories/dataops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is the cloud cost effective?</title>
+      <link>http://lockelife.com/talks/post/cloud-cost-effective/</link>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/cloud-cost-effective/</guid>
+      <description>Is it worth putting your stuff on the cloud? Let&amp;rsquo;s talk numbers!
+Abstract Yes, the cloud is cool. Yes, it can be easy. But… will it save or even make the company money? That is the all important question!
+Learning to build a financial business case for a technology decision is a smart move. Transform the techy topic that C-suite people don’t feel like they can discuss into something they can discuss by making it a financial topic.</description>
+    </item>
+    
+    <item>
+      <title>Coping with x2,000 data volumes growth</title>
+      <link>http://lockelife.com/talks/post/coping-with-growth/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/coping-with-growth/</guid>
+      <description>Experience my pain as I try to build an Azure Data Platform that scales.
+Abstract I worked in a startup and our volumes started small, really small. I was the data scientist but I needed to actually build a data platform first. By the end of 6 months, daily volumes were 2,000 times the size. This talk takes you through my 6 months of learning how to build a high-scale data platform whilst requirements, scale, and technology were all changing.</description>
+    </item>
+    
+    <item>
+      <title>R &amp; SQL Server for real-time predictions</title>
+      <link>http://lockelife.com/talks/post/r-and-sql-server/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/r-and-sql-server/</guid>
+      <description>Putting data science models with SQL Server can be a great and simple way to operationalise your data science models. Learn how to do it.
+Abstract Embedding your R (and soon Python!) models in SQL Server enables you to add predictive capabilities to your applications and analytics in place of buying expensive components or making substantial changes to your systems. In this demo-packed talk, you&amp;rsquo;ll see how you can go from a model built in R to making predictions on the fly in SQL Server 2016.</description>
+    </item>
+    
+    <item>
+      <title>Data &#43; Docker = Discombobulating?</title>
+      <link>http://lockelife.com/talks/post/data-docker-discombobulating/</link>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/data-docker-discombobulating/</guid>
+      <description>Learn about Docker and how you can store data in Docker containers safely.
+Abstract If you’re like me, you like your data to stick around for a long time and most importantly you want to know it’s safe.
+In the Docker world, there’s the maxim of “never patch”, always make a new container with the latest version of the application. If we’re sticking in our database in a container like Microsoft are doing with SQL Server now, what happens when we need to apply the latest patches?</description>
+    </item>
+    
+    <item>
+      <title>Failing my way to success with Azure</title>
+      <link>http://lockelife.com/talks/post/failing-my-way-to-success-with-azure/</link>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/failing-my-way-to-success-with-azure/</guid>
+      <description>Experience my pain as I try to build an Azure Data Platform that scales.
+Abstract Azure is a constantly evolving area, with more new features per day than I could shake a stick at. It’s awesome, you can use PowerShell, it’s cheaper than tin. It’s the future, so they tell me. It’s also a real PITA when you’re trying to achieve a task and you don’t know which bit is best!</description>
+    </item>
+    
+    <item>
+      <title>Anchor Modelling - agile databases</title>
+      <link>http://lockelife.com/talks/post/anchor-models/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/anchor-models/</guid>
+      <description>Yes, there&amp;rsquo;s normal forms beyond third, and yes they can be really useful!
+Abstract Anchor Modelling is a fantastic database modelling paradigm that uses sixth normal form (6NF) to store data and provides third normal form (3NF) views for ease of use.
+This session deep dives into all the concepts behind Anchor Modelling (and indeed databases generally!) and then takes you through how Anchor Modelling uses these concepts to move away from the traditional data warehouse paradigm to deliver a purely additive, agile database.</description>
+    </item>
+    
+    <item>
+      <title>Reproducible R docs in github</title>
+      <link>http://lockelife.com/talks/post/reproducible-r-docs-in-github/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/reproducible-r-docs-in-github/</guid>
+      <description> Learn how to build awesome docs in R and github.
+Abstract We can combine R and Github to make fantastic data driven documents, blogs, books and more. This talk takes you through the building blocks and how you can use them for different types of documents.
+Slides View the presentation full screen or view it below. Hit the Space bar to navigate through the slides.
+ Presentation history  February 13th, 2017 - R-Ladies London  </description>
+    </item>
+    
+    <item>
+      <title>Get going with modern R in SQL Server in 30 minutes</title>
+      <link>http://lockelife.com/talks/post/microsoft-sql-server-and-r-services/</link>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/microsoft-sql-server-and-r-services/</guid>
+      <description> Learn about provisioning data science machines for production, programmatically.
+Abstract Description Starting with provisioning a SQL Server on Azure, this end to end demo shows you how get everything set up to start using the best R packages available in realtime.
+Slides View the presentation full screen or view it below. Hit the Space bar to navigate through the slides.
+ Get more info in the repository
+Videos  Presentation history  October 24th, 2016 - UK TechDays Online at Future Decoded October 24th, 2016 - SQL Bristol  </description>
+    </item>
+    
+    <item>
+      <title>Board Packs: Combining Shiny, LaTeX And Databases For Full Effect</title>
+      <link>http://lockelife.com/talks/post/board-packs/</link>
+      <pubDate>Sat, 03 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/board-packs/</guid>
+      <description>Making complex report compilation easy is something we can do in R. Learn how!
+Abstract The monthly report pack for the Board &amp;ndash; with lots of information from different sources and all requiring commentary from lots of people &amp;ndash; these things can take weeks to produce, send for commentary, and then compile into one pack. This full hour takes you through a framework for a single core source document, a shiny interface, hooks into the database for commentary, and the LaTeX (or markdown) document structure needed for developing a single interface through which lots of people can contribute to a single document.</description>
+    </item>
+    
+    <item>
+      <title>Infrastructure for R peeps</title>
+      <link>http://lockelife.com/talks/post/infrastructure-for-rpeeps/</link>
+      <pubDate>Sat, 03 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/infrastructure-for-rpeeps/</guid>
+      <description>It&amp;rsquo;s important to know how to work your operating systems &amp;ndash; if only so you know how to avoid working with your operating systems!
+Abstract Continuous integration, Docker, openCPU, shiny server, RStudio server, Microsoft R Server, R in Hadoop, your laptop, your grid computer &amp;hellip; There&amp;rsquo;s a lot of infrastructure out there and someone has to configure it. This session whistle-stops through networking, Linux basics, and other key concepts to help get you up to speed because one day, the person configuring the server could be you.</description>
+    </item>
+    
+    <item>
+      <title>Git in 5 minutes</title>
+      <link>http://lockelife.com/talks/post/git-in-5/</link>
+      <pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/git-in-5/</guid>
+      <description> Learn about source control &amp;ndash; it&amp;rsquo;ll save your bacon!
+Abstract Git can seem scary but once you know a few key terms it&amp;rsquo;s pretty easy day to day. This lightning talk helps fasttrack you through the basics.
+Slides View the presentation full screen or view it below. Hit the Space bar to navigate through the slides.
+ Presentation history  July 27th, 2016 - SQL Guerilla talks  </description>
+    </item>
+    
+    <item>
+      <title>My ways of being lazy with infrastructure</title>
+      <link>http://lockelife.com/talks/post/being-lazy-with-infrastructure/</link>
+      <pubDate>Tue, 17 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/being-lazy-with-infrastructure/</guid>
+      <description> Learn how we can take some of the effort out of infrastructure work
+Abstract Oops, I never made one apparently!
+Slides View the presentation full screen or view it below. Hit the Space bar to navigate through the slides.
+ Presentation history  May 17th, 2016 - IT Pro Portugal  </description>
+    </item>
+    
+    <item>
+      <title>Analytical web services</title>
+      <link>http://lockelife.com/talks/post/analytical-web-services/</link>
+      <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/analytical-web-services/</guid>
+      <description>&amp;ldquo;Works on my machine&amp;rdquo; isn&amp;rsquo;t useful - learn how we can get our models into production.
+Abstract In your day job you build some awesome bit of analysis in R but now people want this information available real time and against every thing that comes into the business - you need an R web service but not being a developer you have no clue how to go about it.</description>
+    </item>
+    
+    <item>
+      <title>R for Developers</title>
+      <link>http://lockelife.com/talks/post/r-for-developers/</link>
+      <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/r-for-developers/</guid>
+      <description>Learn about R from a developer perspective.
+Abstract Whether you&amp;rsquo;re interested in picking up another language, or you need to understand what those new data scientists have written and how you go about implementing their crazy new algorithms in your front-end, this session will take you through the R fundamentals, drawing comparisons against other languages, and give you a load of tips to make getting started easier.
+Slides View the presentation full screen or view it below.</description>
+    </item>
+    
+    <item>
+      <title>Agile BI</title>
+      <link>http://lockelife.com/talks/post/agile-bi/</link>
+      <pubDate>Sat, 16 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/agile-bi/</guid>
+      <description>Work smart not hard. BI needs to scale and this talk helps you do that.
+Abstract Agile methodologies are widely used in the dev world and are becoming increasingly adopted in the database world. But what about BI? Covering the technology and process sides of enabling agile BI, this session is designed to give you practical tips to get things moving more quickly for you.
+Slides View the presentation full screen or view it below.</description>
+    </item>
+    
+  </channel>
+</rss>

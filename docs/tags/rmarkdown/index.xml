@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rmarkdown on Locke Data Talks</title>
+    <link>http://lockelife.com/talks/tags/rmarkdown/</link>
+    <description>Recent content in Rmarkdown on Locke Data Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Mon, 13 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lockelife.com/talks/tags/rmarkdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reproducible R docs in github</title>
+      <link>http://lockelife.com/talks/post/reproducible-r-docs-in-github/</link>
+      <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/reproducible-r-docs-in-github/</guid>
+      <description> Learn how to build awesome docs in R and github.
+Abstract We can combine R and Github to make fantastic data driven documents, blogs, books and more. This talk takes you through the building blocks and how you can use them for different types of documents.
+Slides View the presentation full screen or view it below. Hit the Space bar to navigate through the slides.
+ Presentation history  February 13th, 2017 - R-Ladies London  </description>
+    </item>
+    
+    <item>
+      <title>Board Packs: Combining Shiny, LaTeX And Databases For Full Effect</title>
+      <link>http://lockelife.com/talks/post/board-packs/</link>
+      <pubDate>Sat, 03 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/board-packs/</guid>
+      <description>Making complex report compilation easy is something we can do in R. Learn how!
+Abstract The monthly report pack for the Board &amp;ndash; with lots of information from different sources and all requiring commentary from lots of people &amp;ndash; these things can take weeks to produce, send for commentary, and then compile into one pack. This full hour takes you through a framework for a single core source document, a shiny interface, hooks into the database for commentary, and the LaTeX (or markdown) document structure needed for developing a single interface through which lots of people can contribute to a single document.</description>
+    </item>
+    
+  </channel>
+</rss>

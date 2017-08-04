@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on Locke Data Talks</title>
+    <link>http://lockelife.com/talks/categories/data-science/</link>
+    <description>Recent content in Data Science on Locke Data Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    <lastBuildDate>Tue, 27 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lockelife.com/talks/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science Executive Briefing</title>
+      <link>http://lockelife.com/talks/post/data-science-executive-briefing/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/data-science-executive-briefing/</guid>
+      <description>Understand what data science is and isn&amp;rsquo;t, how you go from business goals to data science problems, and how you acquire talented data scientists.
+Abstract Data science aims to use data to build processes that help automate away low-value work, help people take the most effective action, and help people adapt more quickly to changing circumstances. Data science is identifying when to send out engineers, which customers to talk to, and which patients to send to a consultant.</description>
+    </item>
+    
+    <item>
+      <title>Logistic Regressions in R</title>
+      <link>http://lockelife.com/talks/post/logistic-regressions-in-r/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/logistic-regressions-in-r/</guid>
+      <description>Learn what logistic regressions are. See how we can use R to prepare data, build models, and evaluate them.
+Abstract Learn about a fundamental type of model used to make classification prredictions and probabilities of an outcome&amp;rsquo;s likelihood.
+Logistic regressions are a core model in machine learning, inherited from statistics, and it&amp;rsquo;s vital to understand them if you&amp;rsquo;re interested in data science.
+The neat thing is they&amp;rsquo;re pretty simple!</description>
+    </item>
+    
+    <item>
+      <title>Statistics 101</title>
+      <link>http://lockelife.com/talks/post/stats-101/</link>
+      <pubDate>Sat, 12 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://lockelife.com/talks/post/stats-101/</guid>
+      <description>Take a visual, intuitive tour through some important concepts of statistics.
+Abstract We can be better at our jobs if we have a good grasp of basic statistics.
+It doesn’t matter if you’re a DBA looking to understand query plan performance, a data warehouse person needing to come up with ETL load time estimates, or an analyst needing to report figures to managers. Statistics can help you all.
+If only maths classes hadn’t been so darn boring!</description>
+    </item>
+    
+  </channel>
+</rss>
