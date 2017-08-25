@@ -24,7 +24,7 @@ theme = "hugo-lockedata-blog"
 [[languages.en.menu.prepend]]
     name                = "Talks"
     weight              = 3
-    url                 = "."
+    url                 = "http://lockelife.com/talks"
 	
  # Footer
   [params.footer]
