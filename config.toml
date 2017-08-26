@@ -1,4 +1,4 @@
-baseurl = "http://lockelife.com/talks/"
+baseurl = "https://itsalocke.com/talks/"
 languageCode = "en-gb"
 title = "Locke Data Talks"
 # Enable comments by entering your Disqus shortname
@@ -19,12 +19,12 @@ theme = "hugo-lockedata-blog"
 [[languages.en.menu.prepend]]
     name                = "Locke Data"
     weight              = 1
-    url                 = "http://lockelife.com"
+    url                 = "https://itsalocke.com"
 
 [[languages.en.menu.prepend]]
     name                = "Talks"
     weight              = 3
-    url                 = "http://lockelife.com/talks"
+    url                 = "https://itsalocke.com/talks"
 	
  # Footer
   [params.footer]
@@ -48,7 +48,7 @@ theme = "hugo-lockedata-blog"
   [[languages.en.menu.footer]]
     weight = 10
     name = "Legalise and stuff"
-    url = "http://lockelife.com/#company"
+    url = "https://itsalocke.com/#company"
 [params]
     keywords            = ["default", "keywords", "if", "no", "front", "matter"]
   author = "Locke Data"
