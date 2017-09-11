@@ -2,6 +2,7 @@
 draft = false
 thumbnail = "/img/Graph.png"
 date = "2016-03-12"
+lastmod = "2017-09-01"
 title = "Statistics 101"
 tags = ["R","fundamentals"]
 categories = ["Data Science"]
@@ -20,13 +21,18 @@ Instead of going all mathsy, we’ll be doing some real-time data capture and ta
 
 By the end of the session, you’ll understand concepts like sampling, error, regression, and outliers – important day-to-day stuff and a great base upon which to build. By the end of the session, you’ll wonder how people could have it made seem so hard for so many years.
 
+## App
+Get the latest iteration of [the app](//stef.shinyapps.io/dashboard) from the Group By talk.
+
 ## Slides
-View the presentation [full screen](http://stephlocke.info/Rtraining/stats101.html#/) or view it below. Hit the Space bar to navigate through the slides.
+View the presentation [full screen](https://itsalocke.com/slides/stats101.html#/) or view it below. Hit the Space bar to navigate through the slides.
 
-<iframe src="http://stephlocke.info/Rtraining/stats101.html#/" width="960" height="540"></iframe>
+<iframe src="https://itsalocke.com/slides/stats101.html" width="960" height="540"></iframe>
 
 
-<!-- ## Videos -->
+## Videos 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z57CNFAUcms" frameborder="0" allowfullscreen></iframe>
 
 ## Presentation history
 - March 12th, 2016 - [SQLSaturday #496 Exeter](http://www.sqlsaturday.com/496/EventHome.aspx)
+- September 1st, 2017 - [Group By](https://groupby.org/conference-session-abstracts/statistics-101/)
