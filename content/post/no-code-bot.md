@@ -21,5 +21,9 @@ View the presentation [full screen](../../../slides/nocodebot) or view it below.
 
 <iframe src="https://itsalocke.com/slides/nocodebot" width="960" height="540"></iframe>
 
+## Other materials
+- [Demo Videos](//youtube.com/playlist?list=PL1ROw3K8pbB2nogCjfQYSMNzTwn_fReWc)
+- [Experiments page](//itsalocke.com/oss/experiments)
+
 ## Presentation history
 - September 16th, 2017 [sqlsaturday.com](http://www.sqlsaturday.com/664/EventHome.aspx)
