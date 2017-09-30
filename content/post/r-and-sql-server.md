@@ -25,4 +25,4 @@ View the presentation [full screen](https://itsalocke.com/slides/randsqlserver#)
 
 ## Presentation history
 - June 27th, 2017 - [Data Science Technologies](https://www.meetup.com/Data-Science-Technologies/events/240480512/)
-- September 30th, 2017 - [SQL Saturday Utrecht]()
+- September 30th, 2017 - [SQL Saturday Utrecht](//sqlsaturday.com/666)
