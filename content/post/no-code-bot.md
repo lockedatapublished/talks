@@ -1,7 +1,7 @@
 +++
 draft = false
 thumbnail = "/img/Insight.png"
-date = "2017-09-16"
+date = "2017-10-13"
 title = "Build your first bot - no code required!"
 tags = ["bot","beginner","azure"]
 categories = ["Interfaces"]
@@ -26,4 +26,6 @@ View the presentation [full screen](../../../slides/nocodebot) or view it below.
 - [Experiments page](//itsalocke.com/oss/experiments)
 
 ## Presentation history
-- September 16th, 2017 [sqlsaturday.com](http://www.sqlsaturday.com/664/EventHome.aspx)
+- September 16th, 2017 [SQL Saturday Katowice](http://www.sqlsaturday.com/664/EventHome.aspx)
+- October 7th, 2017 [SQL Saturday Copenhagen](http://www.sqlsaturday.com/656/EventHome.aspx)
+- October 13th, 2017 [SQL Relay Bristol](http://sqlrelay.co.uk)
