@@ -1,8 +1,7 @@
 +++
 draft = false
 thumbnail = "/img/Work.png"
-date = "2017-06-29"
-lastmod="2017-10-23"
+date = "2017-11-09"
 title = "R for Reporting"
 tags = ["R"]
 categories = ["Data"]
