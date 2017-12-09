@@ -2,7 +2,7 @@
 draft = false
 thumbnail = "/img/Automation.png"
 date = "2017-06-27"
-lastmod="2017-09-30"
+lastmod="2017-12-09"
 title = "R & SQL Server for real-time predictions"
 tags = ["infrastructure","SQL Server","R"]
 categories = ["DataOps"]
@@ -26,3 +26,4 @@ View the presentation [full screen](https://itsalocke.com/slides/randsqlserver#)
 ## Presentation history
 - June 27th, 2017 - [Data Science Technologies](https://www.meetup.com/Data-Science-Technologies/events/240480512/)
 - September 30th, 2017 - [SQL Saturday Utrecht](//sqlsaturday.com/666)
+- December 9th, 2017 - [SQL Saturday Slovenia](//sqlsaturday.com/687)
