@@ -26,6 +26,7 @@ View the presentation [full screen](https://1drv.ms/p/s!AiZm2P6YHtSflRGftJKYG955
 - Read more in our [post](https://itsalocke.com/anchor-modelling-sixth-normal-form-databases/).
 - Check out [AnchorModeling.com](//anchormodeling.com)
 - [Old slides](//sway.com/Nh8UJdEUTonyDQFF?ref=Link)
+- For examples and glossaries, checkout [lockedata/pres-6nf](//github.com/lockedata/pres-6nf)
 
 ## Presentation history
 - December 5th, 2017 - [SQL Saturday #467 Southampton](http://www.sqlsaturday.com/467/eventhome.aspx)
