@@ -2,6 +2,7 @@
 draft = false
 thumbnail = "/img/Science.png"
 date = "2017-05-20"
+lastmod="2018-01-19"
 title = "Anchor Modelling - agile databases"
 tags = ["SQL Server", "anchor modeling"]
 categories = ["DataOps"]
@@ -16,12 +17,17 @@ This session deep dives into all the concepts behind Anchor Modelling (and indee
 
 
 ## Slides
-View the presentation [full screen](https://sway.com/Nh8UJdEUTonyDQFF?ref=Link) or view it below. 
+View the presentation [full screen](https://1drv.ms/p/s!AiZm2P6YHtSflRGftJKYG955fqNX) or view it below. 
 
-<iframe width="760px" height="500px" src="https://sway.com/s/Nh8UJdEUTonyDQFF/embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
 
-Read more in our [post](https://itsalocke.com/anchor-modelling-sixth-normal-form-databases/).
+<iframe src="https://onedrive.live.com/embed?cid=9FD41E98FED86626&resid=9FD41E98FED86626%212705&authkey=AEqG0qgKYUVSmVA&em=2" width="760px" height="500px"  frameborder="0" scrolling="no"></iframe>
+
+## Resources and old slides
+- Read more in our [post](https://itsalocke.com/anchor-modelling-sixth-normal-form-databases/).
+- Check out [AnchorModeling.com](//anchormodeling.com)
+- [Old slides](//sway.com/Nh8UJdEUTonyDQFF?ref=Link)
 
 ## Presentation history
 - December 5th, 2017 - [SQL Saturday #467 Southampton](http://www.sqlsaturday.com/467/eventhome.aspx)
 - May 20th, 2017 - [SQL Saturday #616 Kyiv](http://www.sqlsaturday.com/616/eventhome.aspx)
+- January 19th, 2018 - [NDC London](https://ndc-london.com)
