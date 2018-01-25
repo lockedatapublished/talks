@@ -1,0 +1,27 @@
+.collapsibleTree .node circle {
+  fill: #E8830C;
+  stroke: #2165B6;
+  stroke-opacity: 0.5;
+}
+
+.collapsibleTree .node text {
+  fill: #2165B6;
+}
+
+.collapsibleTree .link {
+  stroke-opacity: 0.5;
+  stroke: #2165B6;
+}
+
+.collapsibleTree .node a {
+  fill: #2165B6;
+}
+
+a:hover {
+text-decoration: none;
+}
+
+.collapsibleTree  .fa {
+  color: #2165B6;
+  font-size: 3em;
+}
