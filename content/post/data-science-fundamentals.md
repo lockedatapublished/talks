@@ -2,6 +2,7 @@
 draft = false
 thumbnail = "/img/Insight.png"
 date = "2017-09-09"
+lastmod="2018-01-24"
 title = "Data Science Fundamentals"
 tags = ["fundamentals","process","strategy"]
 categories = ["Data Science"]
@@ -22,4 +23,5 @@ View the presentation [full screen](../../../slides/datascience101) or view it b
 <iframe src="https://itsalocke.com/slides/datascience101" width="960" height="540"></iframe>
 
 ## Presentation history
-- September 9th, 2017 [sqlsaturday.com](http://www.sqlsaturday.com/632/EventHome.aspx)
+- September 9th, 2017 -  [sqlsaturday.com](http://www.sqlsaturday.com/632/EventHome.aspx)
+- January 24th, 2018 - [BirminghamR](https://www.meetup.com/BirminghamR/events/245277628/)
