@@ -25,13 +25,13 @@ By the end of the session, you’ll understand concepts like sampling, error, re
 Get the latest iteration of [the app](//stef.shinyapps.io/dashboard) to explore statistics.
 
 ## (old) Slides
-View the presentation [full screen](https://itsalocke.com/slides/stats101.html#/) or view it below. Hit the Space bar to navigate through the slides.
+View the presentation [full screen](https://itsalocke.com/slides/stats101.html#/). Hit the Space bar to navigate through the slides.
 
-<iframe src="https://itsalocke.com/slides/stats101.html" width="960" height="540"></iframe>
 
 
 ## Videos 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z57CNFAUcms" frameborder="0" allowfullscreen></iframe>
+- [Latest talk video](https://skillsmatter.com/skillscasts/11379-statistics-101)
+- [GroupBy video](https://www.youtube.com/watch?v=z57CNFAUcms)
 
 ## Presentation history
 - March 12th, 2016 - [SQLSaturday #496 Exeter](http://www.sqlsaturday.com/496/EventHome.aspx)
