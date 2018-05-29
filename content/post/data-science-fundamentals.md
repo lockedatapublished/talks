@@ -25,3 +25,4 @@ View the presentation [full screen](../../../slides/datascience101) or view it b
 ## Presentation history
 - September 9th, 2017 -  [sqlsaturday.com](http://www.sqlsaturday.com/632/EventHome.aspx)
 - January 24th, 2018 - [BirminghamR](https://www.meetup.com/BirminghamR/events/245277628/)
+- February 10th, 2018 - [Tech Outbound](http://www.techoutbound.com/index.html)

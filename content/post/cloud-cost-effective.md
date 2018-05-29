@@ -32,3 +32,4 @@ View the presentation [full screen](http://lockedata.uk/pres-azure/isthecloudcos
 
 ## Presentation history
 - July 5th, 2017 - [DevTeach](https://devteach.com)
+- April 19th, 2018 - [Pass Cloud Virtual Chapter](http://cloud.pass.org/)

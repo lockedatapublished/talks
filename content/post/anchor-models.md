@@ -2,7 +2,7 @@
 draft = false
 thumbnail = "/img/Science.png"
 date = "2017-05-20"
-lastmod="2018-01-19"
+lastmod="2018-05-15"
 title = "Anchor Modelling - agile databases"
 tags = ["SQL Server", "anchor modeling"]
 categories = ["DataOps"]
@@ -29,6 +29,7 @@ View the presentation [full screen](https://1drv.ms/p/s!AiZm2P6YHtSflRGftJKYG955
 - For examples and glossaries, checkout [lockedata/pres-6nf](//github.com/lockedata/pres-6nf)
 
 ## Presentation history
-- December 5th, 2017 - [SQL Saturday #467 Southampton](http://www.sqlsaturday.com/467/eventhome.aspx)
 - May 20th, 2017 - [SQL Saturday #616 Kyiv](http://www.sqlsaturday.com/616/eventhome.aspx)
+- December 5th, 2017 - [SQL Saturday #467 Southampton](http://www.sqlsaturday.com/467/eventhome.aspx)
 - January 19th, 2018 - [NDC London](https://ndc-london.com)
+- May 15th, 2018 - [SQL Bristol](https://meetup.com/sqlbristol)

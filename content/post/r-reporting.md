@@ -2,6 +2,7 @@
 draft = false
 thumbnail = "/img/Work.png"
 date = "2017-11-09"
+lastmod = "2018-05-08"
 title = "R for Reporting"
 tags = ["R"]
 categories = ["Data"]
@@ -31,3 +32,4 @@ View the presentation [full screen](../../../slides/rreporting) or view it below
 
 ## Presentation history
 - November 9th, 2017 - [Microsoft Data Platform Group - Birmingham](https://www.meetup.com/MicrosoftDataPlatformBirmingham/events/242280086)
+- May 8th, 2018 - [MancDB](https://www.meetup.com/MancDB/events/246441148/)

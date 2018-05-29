@@ -2,7 +2,7 @@
 draft = false
 thumbnail = "/img/Work.png"
 date = "2017-06-29"
-lastmod="2017-10-23"
+lastmod="2018-05-22"
 title = "Solving Power BI painpoints with R"
 tags = ["Power BI","R"]
 categories = ["Data"]
@@ -20,6 +20,7 @@ Get the materials from [GitHub](https://github.com/lockedata/pres-powerbi). Alte
 
 
 ## Presentation history
-- October 26th, 2017 - [Manchester Power BI User Group](https://www.meetup.com/Power-BI-Manchester-Meetup/events/237898305/)
-- July 15th, 2017 - [SQL Saturday Manchester](http://www.sqlsaturday.com/645/Sessions/Schedule.aspx)
 - June 29th, 2017 - [London Power BI User Group](https://www.meetup.com/London-PUG/events/240429890//)
+- July 15th, 2017 - [SQL Saturday Manchester](http://www.sqlsaturday.com/645/Sessions/Schedule.aspx)
+- October 26th, 2017 - [Manchester Power BI User Group](https://www.meetup.com/Power-BI-Manchester-Meetup/events/237898305/)
+- May 22nd, 2018 - South East Power BI Group

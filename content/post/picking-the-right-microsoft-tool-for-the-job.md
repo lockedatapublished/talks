@@ -2,6 +2,7 @@
 draft = false
 thumbnail = "/img/Science.png"
 date = "2018-01-25"
+lastmod="2018-05-18"
 title = "Picking the right Microsoft tool for the data science job"
 tags = ["Azure", "microsoft machine learning services","functions","sqldb","sqldw"]
 categories = ["Data Science"]
@@ -18,3 +19,4 @@ View the [decision tree full screen](../../files/dsdtree/index.html)
 
 ## Presentation history
 - January 24th, 2018 - [Tech Summit Birmingham](https://birmingham.techsummit.microsoft.com)
+- May 18th, 2018 - [Data Science Ecomomy](http://ds2economy.com/)                          
