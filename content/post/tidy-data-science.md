@@ -2,7 +2,7 @@
 draft = false
 thumbnail = "/img/Work.png"
 date = "2018-06-09"
-lastmod = "2018-06-23
+lastmod = "2018-06-23"
 title = "Tidy Data Science"
 tags = ["R", "fundamentals","Excel"]
 categories = ["Data"]
