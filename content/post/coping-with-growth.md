@@ -2,6 +2,7 @@
 draft = false
 thumbnail = "/img/CloudUplink.png"
 date = "2017-07-04"
+lastmod = "2018-06-05"
 title = "Coping with x2,000 data volumes growth"
 tags = ["infrastructure","azure","lambda"]
 categories = ["DataOps"]
@@ -20,3 +21,4 @@ View the presentation [full screen](https://1drv.ms/p/s!AiZm2P6YHtSfkCHsaudeN1Av
 
 ## Presentation history
 - July 4th, 2017 - [Devteach](http://www.devteach.com)
+- June 5th, 2018 -[SQL Ireland](https://www.meetup.com/SQLIreland/events/250002686/)
