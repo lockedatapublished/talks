@@ -2,9 +2,9 @@
 draft = false
 thumbnail = "/img/Graph.png"
 date = "2016-03-12"
-lastmod = "2018-01-18"
+lastmod = "2018-07-04"
 title = "Statistics 101"
-tags = ["R","fundamentals"]
+tags = ["R","fundamentals", "statistics"]
 categories = ["Data Science"]
 +++
 
@@ -37,3 +37,4 @@ View the presentation [full screen](https://itsalocke.com/slides/stats101.html#/
 - March 12th, 2016 - [SQLSaturday #496 Exeter](http://www.sqlsaturday.com/496/EventHome.aspx)
 - September 1st, 2017 - [Group By](https://groupby.org/conference-session-abstracts/statistics-101/)
 - January 18th, 2018 - [LBAG](https://www.meetup.com/London-Business-Analytics-Group/events/246461672)
+- July 4th, 2018 - [Southampton Data Platform and Cloud Group](https://www.meetup.com/Southampton-Data-Platform-and-Cloud-Group/events/250095310/)
