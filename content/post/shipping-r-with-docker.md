@@ -20,5 +20,8 @@ View the presentation [full screen](https://1drv.ms/p/s!AiZm2P6YHtSfg8xXXGFBfMdB
 <iframe src="https://onedrive.live.com/embed?cid=9FD41E98FED86626&amp;resid=9FD41E98FED86626%2158967&amp;authkey=ALDGN26DPjuCRRU&amp;em=2&amp;wdAr=1.7777777777777777" width="962px" height="565px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
 
 
+## Videos
+- [InfiniteConf vid](https://skillsmatter.com/skillscasts/11935-shipping-data-science-products-with-r-and-docker)
+
 ## Presentation history
 - July 5th, 2018 - [InfiniteConf](https://skillsmatter.com/conferences/9780-infiniteconf-2018-the-conference-on-big-data-and-ai#overview)
