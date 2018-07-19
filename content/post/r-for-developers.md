@@ -2,7 +2,7 @@
 draft = false
 thumbnail = "/img/Work.png"
 date = "2015-09-24"
-lastmod="2018-04-19"
+lastmod="2018-07-19"
 title = "R for Developers"
 tags = ["R","fundamentals"]
 categories = ["DataOps"]
@@ -24,3 +24,4 @@ View the presentation [full screen](https://itsalocke.com/slides/r101.html) or v
 ## Presentation history
 - September 24th, 2015 - [Application Development PASS Virtual Chapter](http://appdev.pass.org/?EventID=3838)
 - April 19th, 2018 - Data Platform Geeks
+- July 19th, 2018 - [DeveloperSouthCoast](https://www.meetup.com/DeveloperSouthCoast/events/250444749/)
