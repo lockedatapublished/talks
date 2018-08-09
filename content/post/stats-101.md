@@ -2,7 +2,7 @@
 draft = false
 thumbnail = "/img/Graph.png"
 date = "2016-03-12"
-lastmod = "2018-07-04"
+lastmod = "2018-08-09"
 title = "Statistics 101"
 tags = ["R","fundamentals", "statistics"]
 categories = ["Data Science"]
@@ -24,6 +24,8 @@ By the end of the session, you’ll understand concepts like sampling, error, re
 ## App
 Get the latest iteration of [the app](//stef.shinyapps.io/dashboard) to explore statistics.
 
+[![sample image](../../img/stats101.jpg)](//stef.shinyapps.io/dashboard)
+
 ## (old) Slides
 View the presentation [full screen](https://itsalocke.com/slides/stats101.html#/). Hit the Space bar to navigate through the slides.
 
@@ -38,3 +40,4 @@ View the presentation [full screen](https://itsalocke.com/slides/stats101.html#/
 - September 1st, 2017 - [Group By](https://groupby.org/conference-session-abstracts/statistics-101/)
 - January 18th, 2018 - [LBAG](https://www.meetup.com/London-Business-Analytics-Group/events/246461672)
 - July 4th, 2018 - [Southampton Data Platform and Cloud Group](https://www.meetup.com/Southampton-Data-Platform-and-Cloud-Group/events/250095310/)
+- August 9th, 2018 - [DPS10](//dps.10.com)
