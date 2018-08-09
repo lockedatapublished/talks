@@ -40,4 +40,4 @@ View the presentation [full screen](https://itsalocke.com/slides/stats101.html#/
 - September 1st, 2017 - [Group By](https://groupby.org/conference-session-abstracts/statistics-101/)
 - January 18th, 2018 - [LBAG](https://www.meetup.com/London-Business-Analytics-Group/events/246461672)
 - July 4th, 2018 - [Southampton Data Platform and Cloud Group](https://www.meetup.com/Southampton-Data-Platform-and-Cloud-Group/events/250095310/)
-- August 9th, 2018 - [DPS10](//dps.10.com)
+- August 9th, 2018 - [DPS10](//dps10.com)
