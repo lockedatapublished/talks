@@ -2,7 +2,7 @@
 draft = false
 thumbnail = "/img/Science.png"
 date = "2017-05-20"
-lastmod="2018-05-15"
+lastmod="2018-08-10"
 title = "Anchor Modelling - agile databases"
 tags = ["SQL Server", "anchor modeling"]
 categories = ["DataOps"]
@@ -33,3 +33,4 @@ View the presentation [full screen](https://1drv.ms/p/s!AiZm2P6YHtSflRGftJKYG955
 - December 5th, 2017 - [SQL Saturday #467 Southampton](http://www.sqlsaturday.com/467/eventhome.aspx)
 - January 19th, 2018 - [NDC London](https://ndc-london.com)
 - May 15th, 2018 - [SQL Bristol](https://meetup.com/sqlbristol)
+- August 10th, 2018 - [DPS10](//dps10.com)
