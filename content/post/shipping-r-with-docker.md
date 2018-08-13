@@ -1,7 +1,7 @@
 +++
 draft = false
 thumbnail = "/img/Transform.png"
-date = "2018-07-05"
+date = "2018-08-13"
 title = "Shipping Data Science Products with R and Docker "
 tags = ["docker", "reproducibility","production", "operationalisation"]
 categories = ["DataOps","R"]
@@ -25,3 +25,4 @@ View the presentation [full screen](https://1drv.ms/p/s!AiZm2P6YHtSfg8xXXGFBfMdB
 
 ## Presentation history
 - July 5th, 2018 - [InfiniteConf](https://skillsmatter.com/conferences/9780-infiniteconf-2018-the-conference-on-big-data-and-ai#overview)
+- August 13th, 2018 - [PASS Hybrid VC](http://hybridvc.pass.org)
